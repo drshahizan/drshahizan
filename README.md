@@ -1,11 +1,10 @@
+![Follower Badge](https://img.shields.io/github/followers/drshahizan)
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+
 ## Hi there 🙋‍♂️
 
-I'm __Shahizan__, a lecturer from 🇲🇾 Malaysia.
-
-![Follower Badge](https://img.shields.io/github/followers/drshahizan)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=drshahizan.visitor-badge)
-
-
+I'm __Shahizan__, a lecturer and I work as a lecturer at [University of Technology Malaysia](https://www.utm.my).
+from 🇲🇾 Malaysia.
 ### ✨ About me: 
 - Lecturer
 - Researcher
