@@ -1,6 +1,9 @@
 ![Follower Badge](https://img.shields.io/github/followers/drshahizan)
 ![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
 
+## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+
+
 ## Hi there 👨‍💻
 I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
 
