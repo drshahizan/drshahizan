@@ -23,15 +23,16 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
     <a href="https://orcid.org/0000-0003-4261-1873" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
 </p>
   
+
 <details>
 <summary>Click for GitHub Stats</summary>
-<p align="center">
+<p align="left">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=drshahizan&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drshahizan&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
-
-</details>
-
+  
 ![Follower Badge](https://img.shields.io/github/followers/drshahizan)
 ![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+
+</details>
