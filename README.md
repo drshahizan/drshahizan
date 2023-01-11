@@ -17,5 +17,5 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 
 ### 🙌🏻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/drshahizan/)
-- [E-mail](mailto:shahizan@utm.my)
+- 📫[E-mail](mailto:shahizan@utm.my)
 
