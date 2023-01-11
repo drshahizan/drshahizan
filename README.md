@@ -6,9 +6,9 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 ### 📚 Courses
 - [Programming Technique III: ASP.NET](https://github.com/drshahizan/learn-aspnet)
 - High Performance Data Processing 
-  -   [Python For Beginners](https://github.com/drshahizan/Python_Tutorial)
+  -   [Python for beginners](https://github.com/drshahizan/Python_Tutorial)
   -   [Exploratory data analysis](https://github.com/drshahizan/Python_EDA)
-  -   [Big Data Processing](https://github.com/drshahizan/Python-big-data)
+  -   [Big data processing](https://github.com/drshahizan/Python-big-data)
 
 ### 👨‍💻 Research Colloquium
 - Research Colloquium Series 1: Best practices' for using the cloud in research **[Click HERE](https://github.com/drshahizan/learn-cloud)**
