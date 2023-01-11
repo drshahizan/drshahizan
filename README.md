@@ -30,6 +30,7 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drshahizan&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
+
 </details>
 
 ![Follower Badge](https://img.shields.io/github/followers/drshahizan)
