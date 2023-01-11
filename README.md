@@ -3,10 +3,10 @@
 
 ## Hi there 🙋‍♂️
 
-My name is __Shahizan__, and I work as a lecturer at [University of Technology Malaysia](https://www.utm.my).
+My name is __Shahizan__, and I work as a lecturer at [Universiti of Technologi Malaysia](https://www.utm.my).
 
 ### 📚 Projects & Guides 📚
-- Programming Technique III. Click **[HERE](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md)**
+- Programming Technique III. Click **[HERE](https://github.com/drshahizan/learn-aspnet)**
 - How to transition into Data Analytics? Click **[HERE](https://github.com/katiehuangx/Transition-into-Data-Analytics/blob/main/README.md)**
 
 ### 🙌🏻 Connect with Me
