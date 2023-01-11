@@ -22,4 +22,5 @@ I'm __Shahizan__, a lecturer from 🇲🇾 Malaysia.
 
 
 ### 🙌🏻 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/katiehuangx/)
+- [LinkedIn](https://www.linkedin.com/in/drshahizan/)
+- [email](mailto:shahizan@utm.my)
