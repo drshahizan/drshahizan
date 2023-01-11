@@ -18,6 +18,7 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 
 ### 🙌🏻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/drshahizan/)
+- [![Linkedin Badge](https://img.shields.io/badge/-drshahizan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drshahizan/)](https://www.linkedin.com/in/drshahizan/)
 - 📫[E-mail](mailto:shahizan@utm.my)
 - [![Gmail Badge](https://img.shields.io/badge/-shahizan@utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahizan@utm.my.com)](mailto:shahizan@utm.my)
 
