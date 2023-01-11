@@ -26,5 +26,5 @@ My name is __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malay
 	<a href="https://github.com/drshahizan"><img src="/image/github.svg" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/drshahizan"><img src="/image/linkedin.svg" alt="LinkedIn"></a>
 	<a href="https://github.com/sponsors/drshahizan"><img src="/image/sponsors.svg" alt="Sponsors"></a>
-	<a href="https://scholar.google.com/citations?user=QzgVq24AAAAJ&hl=en"><img src="blob/main/image/citations.svg" alt="Citations"></a>
+	<a href="https://scholar.google.com/citations?user=QzgVq24AAAAJ&hl=en"><img src="https://github.com/drshahizan/drshahizan/blob/main/image/citations.svg" alt="Citations"></a>
 </p>
