@@ -6,15 +6,11 @@ I'm __Shahizan__, a lecturer from 🇲🇾 Malaysia.
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=drshahizan.visitor-badge)
 
 
-### ✨ I’m currently working as: 
+### ✨ About me: 
 - Lecturer
 - Researcher
-- Sometimes Programmer
-- 
-### ✨ About Me in 30 Secs ✨
-- 👩🏻‍💻 Accountant turned data analyst
-- 📊 Transition to data since **March 2021**
-- 📝 Taught myself SQL, Python and Tableau
+- 📝 Sometimes Programmer
+
 
 ### 📚 Projects & Guides 📚
 - For my portfolio guide, click **[HERE](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md)**
@@ -23,4 +19,4 @@ I'm __Shahizan__, a lecturer from 🇲🇾 Malaysia.
 
 ### 🙌🏻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/drshahizan/)
-- [email](mailto:shahizan@utm.my)
+- [E-mail](mailto:shahizan@utm.my)
