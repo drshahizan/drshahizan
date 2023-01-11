@@ -1,5 +1,3 @@
-![Follower Badge](https://img.shields.io/github/followers/drshahizan)
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
 
 ## Hi there! <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
 
@@ -17,8 +15,8 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 - Research material **[Click HERE](https://github.com/drshahizan/research-material)**
 
 ### 🙌🏻 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/drshahizan/)
 - [![Linkedin Badge](https://img.shields.io/badge/-drshahizan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drshahizan/)](https://www.linkedin.com/in/drshahizan/)
-- 📫[E-mail](mailto:shahizan@utm.my)
 - [![Gmail Badge](https://img.shields.io/badge/-shahizan@utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahizan@utm.my.com)](mailto:shahizan@utm.my)
 
+![Follower Badge](https://img.shields.io/github/followers/drshahizan)
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
