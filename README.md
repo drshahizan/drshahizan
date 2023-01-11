@@ -28,6 +28,6 @@ My name is __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malay
 	<a href="https://github.com/sponsors/drshahizan"><img src="/image/sponsors.svg" alt="Sponsors"></a>
 	<a href="https://scholar.google.com/citations?user=QzgVq24AAAAJ&hl=en"><img src="https://raw.githubusercontent.com/drshahizan/drshahizan/main/image/citations.svg" alt="Citations"></a>
 	
-![Alt text](https://github.com/drshahizan/drshahizan/blob/main/image/citations.svg)
+![Alt text](https://github.com/drshahizan/learn-aspnet/blob/main/image/sponsors.svg)
 	
 </p>
