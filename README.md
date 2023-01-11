@@ -2,6 +2,14 @@
 
 I'm __Shahizan__, a lecturer from 🇲🇾 Malaysia.
 
+![Follower Badge](https://img.shields.io/github/followers/drshahizan)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=drshahizan.visitor-badge)
+
+
+### 🔭 I’m currently working as: 
+- Lecturer
+- Researcher
+- Sometimes Programmer
 ### ✨ About Me in 30 Secs ✨
 - 👩🏻‍💻 Accountant turned data analyst
 - 📊 Transition to data since **March 2021**
