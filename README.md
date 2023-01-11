@@ -3,8 +3,6 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-
-## Hi there 👨‍💻
 I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
 
 ### 📚 Courses
@@ -14,7 +12,7 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
   -   [Exploratory data analysis](https://github.com/drshahizan/Python_EDA)
   -   [Big Data Processing](https://github.com/drshahizan/Python-big-data)
 
-### 📚 Guides
+### 👨‍💻 Guides
 - Research Colloquium Series 1: Best practices' for using the cloud in research **[Click HERE](https://github.com/drshahizan/learn-cloud)**
 - Research material **[Click HERE](https://github.com/drshahizan/research-material)**
 
