@@ -11,8 +11,8 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
   -   [Big data processing](https://github.com/drshahizan/Python-big-data)
 
 ### 👨‍💻 Research Colloquium
-- Research Colloquium Series 1: Best practices' for using the cloud in research **[Click HERE](https://github.com/drshahizan/learn-cloud)**
-- Research material **[Click HERE](https://github.com/drshahizan/research-material)**
+- [Research Colloquium Series 1: Best practices' for using the cloud in research](https://github.com/drshahizan/learn-cloud)
+- [Research material](https://github.com/drshahizan/research-material)
 
 ### 🙌🏻 Connect with Me
 <p align="left">
