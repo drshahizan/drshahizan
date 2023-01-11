@@ -6,7 +6,7 @@
 My name is __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
 
 ### 📚 Projects & Guides 📚
-- Programming Technique III. **[Click HERE](https://github.com/drshahizan/learn-aspnet)**
+- Programming Technique III. Learn ASP.NET **[Click HERE](https://github.com/drshahizan/learn-aspnet)**
 
 ### 📚 Guides 📚
 - Research Colloquium Series 1: Best practices' for using the cloud in research **[Click HERE](https://github.com/drshahizan/learn-cloud)**
