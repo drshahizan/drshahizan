@@ -5,7 +5,7 @@
 
 My name is __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
 
-### 📚 Projects & Guides 📚
+### 📚 Course 📚
 - [Programming Technique III: ASP.NET](https://github.com/drshahizan/learn-aspnet)
 - High Performance Data Processing 
   -   [Python For Beginners](https://github.com/drshahizan/Python_Tutorial)
