@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
 
 ## Hi there 👨‍💻
-I am  __Shahizan__, working as as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
+I am  __Shahizan__, working as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
 
 ### 📚 Courses
 - [Programming Technique III: ASP.NET](https://github.com/drshahizan/learn-aspnet)
