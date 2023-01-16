@@ -14,7 +14,7 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 ### 👨‍💻 Research Colloquium
 - [Research Colloquium Series 1: Best practices' for using the cloud in research](https://github.com/drshahizan/learn-github)
 - [Learn Github](https://github.com/drshahizan/learn-github)
-- [POstgraduate Kit](https://github.com/drshahizan/research-material)
+- [Research Material](https://github.com/drshahizan/research-material)
 
 ### 🙌🏻 Connect with Me
 <p align="left">
