@@ -6,9 +6,9 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 ### 📚 Courses
 - High Performance Data Processing 
   -   [Python for beginners](https://github.com/drshahizan/python-tutorial)
+  -   [Web scraping and Python Web Framework](https://github.com/drshahizan/python-web)
   -   [Exploratory data analysis](https://github.com/drshahizan/Python_EDA)
   -   [Big data processing](https://github.com/drshahizan/Python-big-data)
-  -   [Python Web Framework](https://github.com/drshahizan/python-web)
 - [Programming Technique III: ASP.NET](https://github.com/drshahizan/learn-aspnet)
 - [Web Programming - PHP](https://github.com/drshahizan/learn-php)
 
