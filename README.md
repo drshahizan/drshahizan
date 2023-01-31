@@ -12,7 +12,7 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 - [Programming Technique III: ASP.NET](https://github.com/drshahizan/learn-aspnet)
 - [Web Programming - PHP](https://github.com/drshahizan/learn-php)
 - [Extra-Curricular Experiential Learning](https://github.com/drshahizan/courses/blob/main/UKQT3001/readme.md)
-- [Value And Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)
+- [Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)
 
 ### 👨‍💻 Research Colloquium
 - [Research Colloquium Series 1: Best practices' for using the cloud in research](https://github.com/drshahizan/learn-github)
