@@ -6,7 +6,7 @@
 I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
 
 ### 📚 Courses
-- Special Topic in Data Engineering
+- [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
 - [Software Engineering (WBL)](https://github.com/drshahizan/software-engineering)
 - High Performance Data Processing 
   -   [Python for beginners](https://github.com/drshahizan/python-tutorial)
