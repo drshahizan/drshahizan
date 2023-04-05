@@ -20,8 +20,9 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 - [Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)
 
 ### 👨‍💻 Anything to do with research
-- ✨[Lawatan Kerjasama dan Kolaborasi Penyelidikan Institut Kepintaran Buatan dan Data Raya (AIBIG), Universiti Malaysia Kelantan](https://github.com/drshahizan/research-material/tree/main/bilik)
 - [The Daily Life of a PhD Student](https://github.com/drshahizan/phd)
+- [Undergraduate projects](https://github.com/drshahizan/undergraduate-project)
+- ✨[Lawatan Kerjasama dan Kolaborasi Penyelidikan Institut Kepintaran Buatan dan Data Raya (AIBIG), Universiti Malaysia Kelantan](https://github.com/drshahizan/research-material/tree/main/bilik)
 - [Research Colloquium Series 1: Best practices' for using the cloud in research](https://github.com/drshahizan/learn-github)
 - [Learn Github](https://github.com/drshahizan/learn-github)
 - [Research Material](https://github.com/drshahizan/research-material)
