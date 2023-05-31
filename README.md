@@ -52,4 +52,4 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 
 </details>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinesh06&label=Profile%20views&color=0e75b6&style=flat" alt="vinesh06" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=drshahizan&label=Profile%20views&color=0e75b6&style=flat" alt="drshahizan" /> </p>
