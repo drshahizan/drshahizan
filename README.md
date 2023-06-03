@@ -8,6 +8,7 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 ### 📚 Courses
 - [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
   -   [Django](https://github.com/drshahizan/learn-django)
+  -   [Alternative Assessment](https://github.com/drshahizan/SECP3843)
 
 - [Software Engineering (WBL)](https://github.com/drshahizan/software-engineering)
 - [Web Programming - PHP](https://github.com/drshahizan/learn-php)
