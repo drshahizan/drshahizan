@@ -51,6 +51,7 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
   
   ![Follower Badge](https://img.shields.io/github/followers/drshahizan)
   ![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+  ![](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
   ![](https://komarev.com/ghpvc/?username=drshahizan&label=Profile%20views&color=0e75b6&style=flat)
   
 </details>
