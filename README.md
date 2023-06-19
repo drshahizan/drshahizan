@@ -6,9 +6,6 @@
 I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
 
 ## 📚 Courses
-- [Research Material](https://github.com/drshahizan/research-material)
-  -   [Systematic Review: PRISMA 2020](https://github.com/drshahizan/research-material/tree/main/SLR)
-  -   [myTOR](https://github.com/drshahizan/myTOR)
 - [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
   -   [Django](https://github.com/drshahizan/learn-django)
   -   [Alternative Assessment](https://github.com/drshahizan/SECP3843)
