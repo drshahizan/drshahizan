@@ -25,6 +25,7 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 - [Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)
 
 ## 👨‍💻 Anything to do with research
+- [AI tools](https://drshahizan.gitbook.io/ai-tools/)
 - [The Daily Life of a PhD Student](https://github.com/drshahizan/phd)
 - [Undergraduate projects](https://github.com/drshahizan/undergraduate-project)
 - [Research Colloquium Series 1: Best practices' for using the cloud in research](https://github.com/drshahizan/learn-github)
