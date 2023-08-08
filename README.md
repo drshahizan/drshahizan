@@ -26,6 +26,7 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 
 ## 👨‍💻 Anything to do with research
 📘 [AI tools](https://drshahizan.gitbook.io/ai-tools/)
+
 📕 [Exploratory Data Analysis (EDA)](https://drshahizan.gitbook.io/eda1/)
 - [The Daily Life of a PhD Student](https://github.com/drshahizan/phd)
 - [Undergraduate projects](https://github.com/drshahizan/undergraduate-project)
