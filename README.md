@@ -25,6 +25,7 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 - [Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)
 
 ## 👨‍💻 Anything to do with research
+🔥 [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt/)
 📘 [AI tools](https://drshahizan.gitbook.io/ai-tools/)
 
 📕 [Exploratory Data Analysis (EDA)](https://drshahizan.gitbook.io/eda1/)
