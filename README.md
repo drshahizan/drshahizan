@@ -8,7 +8,7 @@
 I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
 
 ## 📚 Courses
-- [Big Data Mangement](https://github.com/drshahizan/BDM)
+- [Big Data Management](https://github.com/drshahizan/BDM)
 - [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
   -   [Django](https://github.com/drshahizan/learn-django)
   -   [Alternative Assessment](https://github.com/drshahizan/SECP3843)
