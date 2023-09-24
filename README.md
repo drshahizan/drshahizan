@@ -9,7 +9,7 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 
 ## 📚 Courses
 - [Big Data Management](https://github.com/drshahizan/BDM)
-- High Performance Data Processing 
+- [High Performance Data Processing](https://github.com/drshahizan/HPDP)
   -   [Python for beginners](https://github.com/drshahizan/python-tutorial)
   -   [Web scraping and Python web framework](https://github.com/drshahizan/python-web)
   -   [Exploratory data analysis](https://github.com/drshahizan/Python_EDA)
