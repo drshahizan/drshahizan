@@ -14,7 +14,7 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
   -   [Exploratory data analysis](https://github.com/drshahizan/Python_EDA)
   -   [Big data processing](https://github.com/drshahizan/Python-big-data)
   -   [Case Study](https://github.com/drshahizan/python-tutorial/blob/main/case-study.md)
-- [AI for Innovation- Universitas Padjadjaran](https://github.com/drshahizan/AI-Innovation)
+- [AI for Innovation: Universitas Padjadjaran](https://github.com/drshahizan/AI-Innovation)
 - [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
   -   [Django](https://github.com/drshahizan/learn-django)
   -   [Alternative Assessment](https://github.com/drshahizan/SECP3843)
@@ -26,14 +26,13 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 - [Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)
 
 ## 👨‍💻 Anything to do with research
-✨ [Systematic Literature Review](https://drshahizan.gitbook.io/slr/)
+🔥 [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt/)
 
 📘 [AI tools](https://drshahizan.gitbook.io/ai-tools/)
 
-🔥 [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt/)
-
 📕 [Exploratory Data Analysis (EDA)](https://drshahizan.gitbook.io/eda1/)
 
+✨ [Systematic Literature Review](https://drshahizan.gitbook.io/slr/)
 
 - [The Daily Life of a PhD Student](https://github.com/drshahizan/phd)
 - [Undergraduate projects](https://github.com/drshahizan/undergraduate-project)
