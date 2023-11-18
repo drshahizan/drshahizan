@@ -25,7 +25,11 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 - [Extra-Curricular Experiential Learning](https://github.com/drshahizan/courses/blob/main/UKQT3001/readme.md)
 - [Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)
 
+## Worshop/ Short Courses
+- [Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)
+
 ## 👨‍💻 Anything to do with research
+
 🔥 [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt/)
 
 📘 [AI tools](https://drshahizan.gitbook.io/ai-tools/)
@@ -51,7 +55,6 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
     <a href="https://orcid.org/0000-0003-4261-1873" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
 </p>
   
-
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="left">
