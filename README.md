@@ -9,11 +9,6 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 ## 📚 Courses
 - [Big Data Management](https://github.com/drshahizan/BDM)
 - [High Performance Data Processing](https://github.com/drshahizan/HPDP)
-  -   [Python for beginners](https://github.com/drshahizan/python-tutorial)
-  -   [Web scraping and Python web framework](https://github.com/drshahizan/python-web)
-  -   [Exploratory data analysis](https://github.com/drshahizan/Python_EDA)
-  -   [Big data processing](https://github.com/drshahizan/Python-big-data)
-  -   [Case Study](https://github.com/drshahizan/python-tutorial/blob/main/case-study.md)
 - [AI for Innovation: Universitas Padjadjaran](https://github.com/drshahizan/AI-Innovation)
 - [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
   -   [Django](https://github.com/drshahizan/learn-django)
