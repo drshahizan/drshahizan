@@ -11,9 +11,6 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 - [High Performance Data Processing](https://github.com/drshahizan/HPDP)
 - [AI for Innovation: Universitas Padjadjaran](https://github.com/drshahizan/AI-Innovation)
 - [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
-  -   [Django](https://github.com/drshahizan/learn-django)
-  -   [Alternative Assessment](https://github.com/drshahizan/SECP3843)
-
 - [Software Engineering (WBL)](https://github.com/drshahizan/software-engineering)
 - [Web Programming - PHP](https://github.com/drshahizan/learn-php)
 - [Programming Technique III: ASP.NET](https://github.com/drshahizan/learn-aspnet)
