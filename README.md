@@ -9,7 +9,7 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 ## 📚 Courses
 - [Big Data Management](https://github.com/drshahizan/BDM)
 - [High Performance Data Processing](https://github.com/drshahizan/HPDP)
-- [AI for Innovation: Universitas Padjadjaran](https://github.com/drshahizan/AI-Innovation)
+- [Universitas Padjadjaran: AI for Innovation](https://github.com/drshahizan/AI-Innovation)
 - [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
 - [Software Engineering (WBL)](https://github.com/drshahizan/software-engineering)
 - [Web Programming - PHP](https://github.com/drshahizan/learn-php)
@@ -18,7 +18,7 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 - [Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)
 
 ## Worshop/ Short Courses
-- [Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)
+- [UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)
 
 ## 👨‍💻 Anything to do with research
 
