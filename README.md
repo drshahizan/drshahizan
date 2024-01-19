@@ -18,7 +18,7 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 - [Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)
 
 ## Worshop/ Short Courses
-- [UTM - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)
+- [UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)
 - [UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)
 
 ## 👨‍💻 Anything to do with research
