@@ -24,9 +24,13 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 - [UTM - Learn Github](https://github.com/drshahizan/learn-github)
 
 ## Data Science and Software
-
-
-
+- [Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)
+- [Python for beginners](https://github.com/drshahizan/python-tutorial)
+- [Web Scraping](https://github.com/drshahizan/python-web)
+- [Exploratory Data Analysis (EDA)](https://github.com/drshahizan/Python_EDA)
+- [Big data processing](https://github.com/drshahizan/Python-big-data)
+- [Django](https://github.com/drshahizan/learn-django)
+- [Dataset](https://github.com/drshahizan/dataset)
 
 ## E-Books
 - 🔥 [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt/)
