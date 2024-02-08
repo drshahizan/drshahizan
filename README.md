@@ -23,9 +23,9 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 - [UTM - Learn Github](https://github.com/drshahizan/learn-github)
 
 # E-Books
-🔥 [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt/)
-📘 [AI tools](https://drshahizan.gitbook.io/ai-tools/)
-✨ [Systematic Literature Review](https://drshahizan.gitbook.io/slr/)
+- 🔥 [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt/)
+- 📘 [AI tools](https://drshahizan.gitbook.io/ai-tools/)
+- ✨ [Systematic Literature Review](https://drshahizan.gitbook.io/slr/)
 
 ## 👨‍💻 Anything to do with research
 - [The Daily Life of a PhD Student](https://github.com/drshahizan/phd)
