@@ -22,14 +22,12 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 - [UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)
 - [UTM - Learn Github](https://github.com/drshahizan/learn-github)
 
-## 👨‍💻 Anything to do with research
-
+# E-Books
 🔥 [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt/)
-
 📘 [AI tools](https://drshahizan.gitbook.io/ai-tools/)
-
 ✨ [Systematic Literature Review](https://drshahizan.gitbook.io/slr/)
 
+## 👨‍💻 Anything to do with research
 - [The Daily Life of a PhD Student](https://github.com/drshahizan/phd)
 - [Undergraduate projects](https://github.com/drshahizan/undergraduate-project)
 - [Research Colloquium Series 1: Best practices' for using the cloud in research](https://github.com/drshahizan/learn-github)
