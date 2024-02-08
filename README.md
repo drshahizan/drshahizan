@@ -16,18 +16,17 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 - [Extra-Curricular Experiential Learning](https://github.com/drshahizan/courses/blob/main/UKQT3001/readme.md)
 - [Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)
 
-## Worshop/ Short Courses
+## Short Courses
 - [UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)
 - [Universitas Padjadjaran: AI for Innovation](https://github.com/drshahizan/AI-Innovation)
 - [UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)
+- [UTM - Learn Github](https://github.com/drshahizan/learn-github)
 
 ## 👨‍💻 Anything to do with research
 
 🔥 [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt/)
 
 📘 [AI tools](https://drshahizan.gitbook.io/ai-tools/)
-
-📕 [Exploratory Data Analysis (EDA)](https://drshahizan.gitbook.io/eda1/)
 
 ✨ [Systematic Literature Review](https://drshahizan.gitbook.io/slr/)
 
