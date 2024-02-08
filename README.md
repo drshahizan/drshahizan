@@ -21,7 +21,7 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 - [UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)
 - [Universitas Padjadjaran: AI for Innovation](https://github.com/drshahizan/AI-Innovation)
 - [UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)
-- [UTM - Learn Github](https://github.com/drshahizan/learn-github)
+- [UTM - Research Colloquium: Learn Github](https://github.com/drshahizan/learn-github)
 
 ## Data Science and Software
 - [Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)
