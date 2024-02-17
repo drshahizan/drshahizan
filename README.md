@@ -20,12 +20,15 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 - [UTM - Penulisan Buku Karya Asli](https://github.com/drshahizan/mybooks)
 - [UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)
   - [Obsidian Vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)
+  - [Systematic Literature Review](https://drshahizan.gitbook.io/slr/)
   - [Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)
+- [Systematic Literature Review](https://drshahizan.gitbook.io/slr/)
 - [Universitas Padjadjaran: AI for Innovation](https://github.com/drshahizan/AI-Innovation)
 - [UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)
 - [UTM - Research Colloquium: Learn Github](https://github.com/drshahizan/learn-github)
 
 ## Data Science and Software
+- [Obsidian Vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)
 - [Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)
 - [Python for beginners](https://github.com/drshahizan/python-tutorial)
 - [Web Scraping](https://github.com/drshahizan/python-web)
