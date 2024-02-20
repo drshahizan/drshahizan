@@ -28,7 +28,7 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 - [UTM - Research Colloquium: Learn Github](https://github.com/drshahizan/learn-github)
 
 ## Data Science and Software
-- [Obsidian Vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)
+- [Obsidian vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)
 - [Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)
 - [Python for beginners](https://github.com/drshahizan/python-tutorial)
 - [Web Scraping](https://github.com/drshahizan/python-web)
