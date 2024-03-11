@@ -17,6 +17,7 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 - [Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)
 
 ## Short Courses
+- [UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)
 - [UTM CDex - Kursus ChatGPT dan AI](https://github.com/drshahizan/Generative-AI-Playground)
 - [UTM - Penulisan Buku Karya Asli](https://github.com/drshahizan/mybooks)
 - [UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)
@@ -25,7 +26,6 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
   - [Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)
   - [AI tools](https://drshahizan.gitbook.io/ai-tools/)
 - [Universitas Padjadjaran: AI for Innovation](https://github.com/drshahizan/AI-Innovation)
-- [UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)
 - [UTM - Research Colloquium: Learn Github](https://github.com/drshahizan/learn-github)
 
 ## Data Science and Software
