@@ -7,7 +7,7 @@
 I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
 
 ## 📚 Courses
-- [Research Design and Analysis in Data Science](https://github.com/drshahizan/BDM)
+- [🆕 Research Design and Analysis in Data Science](https://github.com/drshahizan/BDM)
 - [Big Data Management](https://github.com/drshahizan/BDM)
 - [High Performance Data Processing](https://github.com/drshahizan/HPDP)
 - [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
@@ -19,7 +19,7 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 
 ## Short Courses
 - [UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)
-- [UTM CDex - Kursus ChatGPT dan AI](https://github.com/drshahizan/Generative-AI-Playground)
+- [🆕 UTM CDex - Kursus ChatGPT dan AI](https://github.com/drshahizan/Generative-AI-Playground)
 - [UTM - Penulisan Buku Karya Asli](https://github.com/drshahizan/mybooks)
 - [UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)
   - [Obsidian Vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)
