@@ -7,7 +7,7 @@
 I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
 
 ## 📚 Courses
-- 🆕 [Research Design and Analysis in Data Science](https://github.com/drshahizan/BDM)
+- 🆕 [Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)
 - [Big Data Management](https://github.com/drshahizan/BDM)
 - [High Performance Data Processing](https://github.com/drshahizan/HPDP)
 - [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
