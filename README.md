@@ -23,8 +23,8 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
   <img src="https://github.com/drshahizan/learn-github/blob/main/images/Github_poster.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
-<a href="[https://github.com/drshahizan/learn-github/blob/main/pgss.md](https://github.com/drshahizan/SLR-FC)">
-  <img src="https://github.com/drshahizan/SLR-FC/blob/main/images/all%20slr.jpeg" alt="Image Alt Text"  height="200">
+<a href="https://github.com/drshahizan/SLR-FC">
+  <img src="https://github.com/drshahizan/SLR-FC/blob/main/images/all%20slr.jpeg" alt="Image Alt Text"  height="400">
 </a>
 
 
