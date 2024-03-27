@@ -23,9 +23,11 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
   <img src="https://github.com/drshahizan/learn-github/blob/main/images/Github_poster.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
-<a href="https://github.com/drshahizan/learn-github/blob/main/pgss.md">
-  <img src="https://github.com/drshahizan/SLR-FC/blob/main/images/slr_stage4b.jpeg" alt="Image Alt Text"  height="200">
+<a href="[https://github.com/drshahizan/learn-github/blob/main/pgss.md](https://github.com/drshahizan/SLR-FC)">
+  <img src="https://github.com/drshahizan/SLR-FC/blob/main/images/all%20slr.jpeg" alt="Image Alt Text"  height="200">
 </a>
+
+
 
 - 🆕 [PGSS FC - GitHub for Research Students: From Code to Collaboration](https://github.com/drshahizan/learn-github/blob/main/pgss.md)
 - 🆕 [UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)
