@@ -19,7 +19,7 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 
 ## Short Courses
 <p align="left">
-<img src="/images/Github_poster.jpeg"  height="200" />
+<img src="https://github.com/drshahizan/learn-github/blob/main/images/Github_poster.jpeg"  height="200" />
 </p>
 - 🆕 [PGSS FC - GitHub for Research Students: From Code to Collaboration](https://github.com/drshahizan/learn-github/blob/main/pgss.md)
 - 🆕 [UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)
