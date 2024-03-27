@@ -18,9 +18,7 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 - [Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)
 
 ## Short Courses
-<p align="left">
-<img src="https://github.com/drshahizan/learn-github/blob/main/images/Github_poster.jpeg"  height="200" />
-</p>
+
 <a href="https://github.com/drshahizan/learn-github/blob/main/pgss.md">
   <img src="https://github.com/drshahizan/learn-github/blob/main/images/Github_poster.jpeg" alt="Image Alt Text"  height="200">
 </a>
