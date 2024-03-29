@@ -6,8 +6,8 @@
 
 I'm a Lecturer at Universiti Teknologi Malaysia 🏫. I'm passionate about teaching and always eager to learn new things and expand my knowledge. Here's what I'm up to on GitHub:
 
-- 🏆 Working towards becoming a top contributor in Malaysia 🇲🇾 [Top GitHub Users By Public Contributions in Malaysia](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/malaysia.md).
-- 👥 Always looking to connect with awesome people - feel free to say hi! [Top GitHub Users By Followers in Malaysia](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/malaysia.md).
+- 🏆 [Working towards becoming a top GitHub contributor in Malaysia](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/malaysia.md).🇲🇾
+- 👥 [Always looking to connect with awesome people - feel free to say hi!](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/malaysia.md).
 
 Feel free to connect with me or check out my projects! 😊
 
