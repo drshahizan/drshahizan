@@ -9,8 +9,7 @@ I'm a Lecturer at Universiti Teknologi Malaysia 🏫. I'm passionate about teach
 - 🏆 [Working towards becoming a top GitHub contributor in Malaysia](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/malaysia.md).🇲🇾
 - 👥 [Always looking to connect with awesome people - feel free to say hi!](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/malaysia.md).
 
-Feel free to connect with me or check out my projects! 😊
-
+Explore my projects below, and let's collaborate on something impactful!  😊
 
 ## 📚 Courses
 - 🆕 [Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)
