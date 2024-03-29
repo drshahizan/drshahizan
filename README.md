@@ -6,6 +6,9 @@
 
 I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
 
+1. **[Top GitHub Users By Public Contributions in Malaysia](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/malaysia.md)** 🏆🇲🇾
+2. **[Top GitHub Users By Followers in Malaysia](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/malaysia.md)** 👥🇲🇾
+
 ## 📚 Courses
 - 🆕 [Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)
 - [Big Data Management](https://github.com/drshahizan/BDM)
