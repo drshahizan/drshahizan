@@ -38,7 +38,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 - 🆕 [PGSS FC - GitHub for Research Students: From Code to Collaboration](https://github.com/drshahizan/learn-github/blob/main/pgss.md)
 - 🆕 [UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)
-- 🆕 [UTM CDex - Kursus ChatGPT dan AI](https://github.com/drshahizan/Generative-AI-Playground)
+- 🆕 [UTM CDex - A Workshop on ChatGPT and AI Tools](https://github.com/drshahizan/Generative-AI-Playground)
 - 🆕 [UTM - Penulisan Buku Karya Asli](https://github.com/drshahizan/mybooks)
 - 🆕 [UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)
   - [Obsidian Vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)
