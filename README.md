@@ -49,26 +49,41 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 - [UTM - Research Colloquium: Learn Github](https://github.com/drshahizan/learn-github)
 
 ## Data Science and Software
-- [Obsidian vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)
-- [Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)
-- [Python for beginners](https://github.com/drshahizan/python-tutorial)
-- [Web Scraping](https://github.com/drshahizan/python-web)
-- [Exploratory Data Analysis (EDA)](https://github.com/drshahizan/Python_EDA)
-- [Big data processing](https://github.com/drshahizan/Python-big-data)
-- [Django](https://github.com/drshahizan/learn-django)
-- [Dataset](https://github.com/drshahizan/dataset)
+
+- **[Obsidian vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)**: A curated collection of resources for conducting systematic literature reviews with a focus on computer science.
+
+- **[Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)**: A guide to using Obsidian.md, a markdown-based knowledge base that works on top of a local folder of plain text Markdown files.
+
+- **[Python for beginners](https://github.com/drshahizan/python-tutorial)**: A beginner-friendly repository that provides tutorials and resources for learning Python programming.
+
+- **[Web Scraping](https://github.com/drshahizan/python-web)**: This repository offers guidance and code examples for web scraping using Python.
+
+- **[Exploratory Data Analysis (EDA)](https://github.com/drshahizan/Python_EDA)**: A repository dedicated to teaching exploratory data analysis techniques in Python.
+
+- **[Big data processing](https://github.com/drshahizan/Python-big-data)**: Focuses on processing large datasets using Python, with examples and best practices.
+
+- **[Django](https://github.com/drshahizan/learn-django)**: A repository for learning Django, the high-level Python web framework for rapid development.
+
+- **[Dataset](https://github.com/drshahizan/dataset)**: Contains various datasets that can be used for data science projects and learning purposes.
 
 ## E-Books
-- 🔥 [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt/)
-- 📘 [AI tools](https://drshahizan.gitbook.io/ai-tools/)
-- ✨ [Systematic Literature Review](https://drshahizan.gitbook.io/slr/)
 
-## 👨‍💻 Anything to do with research
-- [The Daily Life of a PhD Student](https://github.com/drshahizan/phd)
-- [Undergraduate projects](https://github.com/drshahizan/undergraduate-project)
-- [Research Colloquium Series 1: Best practices' for using the cloud in research](https://github.com/drshahizan/learn-github)
-- [Learn Github](https://github.com/drshahizan/learn-github)
-- [Research Material](https://github.com/drshahizan/research-material)
+- **🔥 [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt/)**: An e-book that explores the use of ChatGPT for copywriting, providing insights and techniques.
+
+- **📘 [AI tools](https://drshahizan.gitbook.io/ai-tools/)**: This e-book compiles a range of AI tools that can be utilized in various fields, including data science and machine learning.
+
+- **✨ [Systematic Literature Review](https://drshahizan.gitbook.io/slr/)**: A comprehensive guide to conducting systematic literature reviews, with methodologies and examples.
+## 👨‍💻 Research Resources
+
+- **[The Daily Life of a PhD Student](https://github.com/drshahizan/phd)**: Offers insights into the routine and experiences of a PhD student, providing valuable tips for navigating academic research.
+
+- **[Undergraduate projects](https://github.com/drshahizan/undergraduate-project)**: A repository dedicated to showcasing undergraduate research projects and their outcomes.
+
+- **[Research Colloquium Series 1: Best practices for using the cloud in research](https://github.com/drshahizan/learn-github)**: Discusses the optimal ways to leverage cloud technology for research purposes, enhancing efficiency and collaboration.
+
+- **[Learn Github](https://github.com/drshahizan/learn-github)**: A comprehensive guide for researchers to learn how to use GitHub for version control and collaboration on research projects.
+
+- **[Research Material](https://github.com/drshahizan/research-material)**: Contains a collection of materials and resources that can support various aspects of academic research.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
