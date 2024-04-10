@@ -12,15 +12,24 @@ I'm a Lecturer at [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/) pas
 Explore my projects below, and let's collaborate on something impactful!  😊
 
 ## 📚 Courses
-- 🆕 [Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)
-- [Big Data Management](https://github.com/drshahizan/BDM)
-- [High Performance Data Processing](https://github.com/drshahizan/HPDP)
-- [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
-- [Software Engineering (WBL)](https://github.com/drshahizan/software-engineering)
-- [Web Programming - PHP](https://github.com/drshahizan/learn-php)
-- [Programming Technique III: ASP.NET](https://github.com/drshahizan/learn-aspnet)
-- [Extra-Curricular Experiential Learning](https://github.com/drshahizan/courses/blob/main/UKQT3001/readme.md)
-- [Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)
+
+- **🆕 [Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)**: A course that delves into the methodologies and analytical techniques in data science research.
+
+- **[Big Data Management](https://github.com/drshahizan/BDM)**: Focuses on the principles and practices of managing large and complex datasets.
+
+- **[High Performance Data Processing](https://github.com/drshahizan/HPDP)**: Covers techniques and tools for processing data at high speeds for performance-critical applications.
+
+- **[Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)**: An advanced course discussing specialized topics within the realm of data engineering.
+
+- **[Software Engineering (WBL)](https://github.com/drshahizan/software-engineering)**: A work-based learning approach to software engineering, integrating practical experience with theoretical knowledge.
+
+- **[Web Programming - PHP](https://github.com/drshahizan/learn-php)**: Teaches web development using PHP, covering both basic and advanced concepts.
+
+- **[Programming Technique III: ASP.NET](https://github.com/drshahizan/learn-aspnet)**: A course on ASP.NET, focusing on building robust web applications using this framework.
+
+- **[Extra-Curricular Experiential Learning](https://github.com/drshahizan/courses/blob/main/UKQT3001/readme.md)**: Provides opportunities for students to engage in learning experiences outside of the traditional academic curriculum.
+
+- **[Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)**: Explores the concepts of personal values and identity within the context of societal norms and expectations.
 
 ## Short Courses
 
@@ -36,18 +45,23 @@ Explore my projects below, and let's collaborate on something impactful!  😊
   <img src="https://github.com/drshahizan/SLR-MIIT/blob/main/images/MSO-SLR.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
-- 🆕 [PGSS FC - GitHub for Research Students: From Code to Collaboration](https://github.com/drshahizan/learn-github/blob/main/pgss.md)
-- 🆕 [UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)
-- [UTM CDex - A Workshop on ChatGPT and AI Tools](https://github.com/drshahizan/Generative-AI-Playground)
-- [UTM - Penulisan Buku Karya Asli](https://github.com/drshahizan/mybooks)
-- [UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)
+- **🆕 [PGSS FC - GitHub for Research Students: From Code to Collaboration](https://github.com/drshahizan/learn-github/blob/main/pgss.md)**: A short course designed to teach research students how to use GitHub for collaborative projects.
+
+- **🆕 [UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)**: A workshop series that introduces the use of AI tools in conducting systematic literature reviews.
+
+- **[UTM CDex - A Workshop on ChatGPT and AI Tools](https://github.com/drshahizan/Generative-AI-Playground)**: This workshop explores the capabilities of ChatGPT and other AI tools in the context of creative and academic applications.
+
+- **[UTM - Penulisan Buku Karya Asli](https://github.com/drshahizan/mybooks)**: A course on writing and publishing original works, with a focus on academic and research materials.
+
+- **[UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)**: Offers insights into leveraging AI for conducting systematic literature reviews more efficiently.
   - [Obsidian Vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)
   - [Systematic Literature Review](https://drshahizan.gitbook.io/slr/)
   - [Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)
   - [AI tools](https://drshahizan.gitbook.io/ai-tools/)
-- [Universitas Padjadjaran: AI for Innovation](https://github.com/drshahizan/AI-Innovation)
-- [UTM - Research Colloquium: Learn Github](https://github.com/drshahizan/learn-github)
 
+- **[Universitas Padjadjaran: AI for Innovation](https://github.com/drshahizan/AI-Innovation)**: A course that examines the role of AI in driving innovation across various sectors.
+
+- **[UTM - Research Colloquium: Learn Github](https://github.com/drshahizan/learn-github)**: Part of a research colloquium series, this session focuses on the use of GitHub in research settings.
 ## Data Science and Software
 
 - **[Obsidian vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)**: A curated collection of resources for conducting systematic literature reviews with a focus on computer science.
