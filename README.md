@@ -50,7 +50,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 - **🆕 [UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)**: A workshop series that introduces the use of AI tools in conducting systematic literature reviews.
   
 - **[PGSS FC - GitHub for Research Students: From Code to Collaboration](https://github.com/drshahizan/learn-github/blob/main/pgss.md)**: A short course designed to teach research students how to use GitHub for collaborative projects.
-- 
+  
 - **[UTM CDex - A Workshop on ChatGPT and AI Tools](https://github.com/drshahizan/Generative-AI-Playground)**: This workshop explores the capabilities of ChatGPT and other AI tools in the context of creative and academic applications.
 
 - **[UTM - Penulisan Buku Karya Asli](https://github.com/drshahizan/mybooks)**: A course on writing and publishing original works, with a focus on academic and research materials.
