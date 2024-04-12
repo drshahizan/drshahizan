@@ -45,7 +45,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
   <img src="https://github.com/drshahizan/SLR-MIIT/blob/main/images/MSO-SLR.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
-- **🆕 [Unlocking Scholarly Insights: How AI Enhances Literature Reviews**]()
+- **🆕 [Unlocking Scholarly Insights: How AI Enhances Literature Reviews]()** refers to the transformative impact of artificial intelligence on the process of conducting literature reviews
 
 - **🆕 [PGSS FC - GitHub for Research Students: From Code to Collaboration](https://github.com/drshahizan/learn-github/blob/main/pgss.md)**: A short course designed to teach research students how to use GitHub for collaborative projects.
 
