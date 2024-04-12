@@ -45,6 +45,8 @@ Explore my projects below, and let's collaborate on something impactful!  😊
   <img src="https://github.com/drshahizan/SLR-MIIT/blob/main/images/MSO-SLR.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
+- **🆕 [Unlocking Scholarly Insights: How AI Enhances Literature Reviews**]()
+
 - **🆕 [PGSS FC - GitHub for Research Students: From Code to Collaboration](https://github.com/drshahizan/learn-github/blob/main/pgss.md)**: A short course designed to teach research students how to use GitHub for collaborative projects.
 
 - **🆕 [UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)**: A workshop series that introduces the use of AI tools in conducting systematic literature reviews.
