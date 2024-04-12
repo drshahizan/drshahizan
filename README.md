@@ -45,7 +45,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
   <img src="https://github.com/drshahizan/SLR-MIIT/blob/main/images/MSO-SLR.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
-- **🆕 [Unlocking Scholarly Insights: How AI Enhances Literature Reviews]()** refers to the transformative impact of artificial intelligence on the process of conducting literature reviews
+- **🆕 [Unlocking Scholarly Insights: How AI Enhances Literature Reviews](https://github.com/drshahizan/SLR-FC/blob/main/unlocking.md)** refers to the transformative impact of artificial intelligence on the process of conducting literature reviews
 
 - **🆕 [UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)**: A workshop series that introduces the use of AI tools in conducting systematic literature reviews.
   
