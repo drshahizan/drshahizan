@@ -33,7 +33,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 ## Short Courses
 
-<a href="https://github.com/drshahizan/SLR-FC/blob/main/unlocking.md">
+<a href="https://github.com/drshahizan/SLR-FC">
   <img src="https://github.com/drshahizan/SLR-FC/blob/main/images/dorsu.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
