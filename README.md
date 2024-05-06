@@ -54,7 +54,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 - **🆕 [Unlocking Scholarly Insights: How AI Enhances Literature Reviews](https://github.com/drshahizan/ai-tools/)** refers to the transformative impact of artificial intelligence on the process of conducting literature reviews
 
-- ** [UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)**: A workshop series that introduces the use of AI tools in conducting systematic literature reviews.
+- **[UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)**: A workshop series that introduces the use of AI tools in conducting systematic literature reviews.
   
 - **[PGSS FC - GitHub for Research Students: From Code to Collaboration](https://github.com/drshahizan/learn-github/blob/main/pgss.md)**: A short course designed to teach research students how to use GitHub for collaborative projects.
   
