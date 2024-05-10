@@ -52,7 +52,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
   <img src="https://github.com/drshahizan/SLR-MIIT/blob/main/images/MSO-SLR.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
-- **🆕 [UTHM - Higher Education Research Optimization for Index Publication (HERO 2024)](https://github.com/drshahizan/ai-tools/)** This workshop serves as an introduction to artificial intelligence (AI) technology for writing high-quality articles. It will guide faculty members to write high-quality articles by integrating AI technology and thus gain the ability to prepare and perfect academic manuscripts using AI from the first draft stage to final publication.
+- **🆕 [UTHM - Higher Education Research Optimization for Index Publication (HERO 2024)](https://github.com/drshahizan/ai-tools/hero.md)** This workshop serves as an introduction to artificial intelligence (AI) technology for writing high-quality articles. It will guide faculty members to write high-quality articles by integrating AI technology and thus gain the ability to prepare and perfect academic manuscripts using AI from the first draft stage to final publication.
 
 - **🆕 [Unlocking Scholarly Insights: How AI Enhances Literature Reviews](https://github.com/drshahizan/ai-tools/)** refers to the transformative impact of artificial intelligence on the process of conducting literature reviews
 
