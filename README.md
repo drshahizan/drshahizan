@@ -57,7 +57,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 - **🆕 [UTM - Program for Leadership: Negotiation, Change and Strategic Decision Making](https://github.com/drshahizan/ai-tools/blob/main/sepp2024.md)**. Module: How AI tools can be used by University Academic Managers.
 
-- **🆕 [UiTM - Seminar Pengurusan Pentadbir (SePP) 2024](https://github.com/drshahizan/ai-tools/blob/main/sepp2024.md)**
+- **🆕 [UiTM - Seminar Pengurusan Pentadbir (SePP) 2024](https://github.com/drshahizan/ai-tools/blob/main/sepp2024.md)**. Sesi 7: Kecerdasan Buatan dan Kepimpinan Strategik: Merangka Masa Depan Universiti yang Mampan
 
 - **🆕 [UTMSpace - Discover the Power of Generative AI](https://github.com/drshahizan/Generative-AI-Playground/blob/main/discover.md)**
 
