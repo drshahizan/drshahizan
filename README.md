@@ -63,7 +63,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 - **🇲🇾 [UTHM - Higher Education Research Optimization for Index Publication (HERO 2024)](https://github.com/drshahizan/ai-tools/blob/main/hero.md)** This workshop serves as an introduction to artificial intelligence (AI) technology for writing high-quality articles. It will guide faculty members to write high-quality articles by integrating AI technology and thus gain the ability to prepare and perfect academic manuscripts using AI from the first draft stage to final publication.
 
-- **🇵🇭[The Davao Oriental State University - Unlocking Scholarly Insights: How AI Enhances Literature Reviews](https://github.com/drshahizan/ai-tools/)** refers to the transformative impact of artificial intelligence on the process of conducting literature reviews
+- **🇵🇭[The Davao Oriental State University - 2024 Research Colloqium. Unlocking Scholarly Insights: How AI Enhances Literature Reviews](https://github.com/drshahizan/ai-tools/)** refers to the transformative impact of artificial intelligence on the process of conducting literature reviews
 
 - **🇲🇾 [UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)**: A workshop series that introduces the use of AI tools in conducting systematic literature reviews.
   
