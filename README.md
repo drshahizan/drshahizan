@@ -57,29 +57,29 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 - **🆕 [UTM - Program for Leadership: Negotiation, Change and Strategic Decision Making](https://github.com/drshahizan/ai-tools/blob/main/sepp2024.md)**. Module: How AI tools can be used by University Academic Managers.
 
-- **🆕 [UiTM - Seminar Pengurusan Pentadbir (SePP) 2024](https://github.com/drshahizan/ai-tools/blob/main/sepp2024.md)**. Sesi 7: Kecerdasan Buatan dan Kepimpinan Strategik: Merangka Masa Depan Universiti yang Mampan
+- **🇲🇾 [UiTM - Seminar Pengurusan Pentadbir (SePP) 2024](https://github.com/drshahizan/ai-tools/blob/main/sepp2024.md)**. Sesi 7: Kecerdasan Buatan dan Kepimpinan Strategik: Merangka Masa Depan Universiti yang Mampan
 
-- **🆕 [UTMSpace - Discover the Power of Generative AI](https://github.com/drshahizan/Generative-AI-Playground/blob/main/discover.md)**
+- **🇲🇾 [UTMSpace - Discover the Power of Generative AI](https://github.com/drshahizan/Generative-AI-Playground/blob/main/discover.md)**
 
-- **🆕 [UTHM - Higher Education Research Optimization for Index Publication (HERO 2024)](https://github.com/drshahizan/ai-tools/blob/main/hero.md)** This workshop serves as an introduction to artificial intelligence (AI) technology for writing high-quality articles. It will guide faculty members to write high-quality articles by integrating AI technology and thus gain the ability to prepare and perfect academic manuscripts using AI from the first draft stage to final publication.
+- **🇲🇾 [UTHM - Higher Education Research Optimization for Index Publication (HERO 2024)](https://github.com/drshahizan/ai-tools/blob/main/hero.md)** This workshop serves as an introduction to artificial intelligence (AI) technology for writing high-quality articles. It will guide faculty members to write high-quality articles by integrating AI technology and thus gain the ability to prepare and perfect academic manuscripts using AI from the first draft stage to final publication.
 
-- **🆕 [The Davao Oriental State University - Unlocking Scholarly Insights: How AI Enhances Literature Reviews](https://github.com/drshahizan/ai-tools/)** refers to the transformative impact of artificial intelligence on the process of conducting literature reviews
+- **🇵🇭[The Davao Oriental State University - Unlocking Scholarly Insights: How AI Enhances Literature Reviews](https://github.com/drshahizan/ai-tools/)** refers to the transformative impact of artificial intelligence on the process of conducting literature reviews
 
-- **[UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)**: A workshop series that introduces the use of AI tools in conducting systematic literature reviews.
+- **🇲🇾 [UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)**: A workshop series that introduces the use of AI tools in conducting systematic literature reviews.
   
-- **[PGSS FC - GitHub for Research Students: From Code to Collaboration](https://github.com/drshahizan/learn-github/blob/main/pgss.md)**: A short course designed to teach research students how to use GitHub for collaborative projects.
+- **🇲🇾 [PGSS FC - GitHub for Research Students: From Code to Collaboration](https://github.com/drshahizan/learn-github/blob/main/pgss.md)**: A short course designed to teach research students how to use GitHub for collaborative projects.
   
-- **[UTM CDex - A Workshop on ChatGPT and AI Tools](https://github.com/drshahizan/Generative-AI-Playground)**: This workshop explores the capabilities of ChatGPT and other AI tools in the context of creative and academic applications.
+- **🇲🇾 [UTM CDex - A Workshop on ChatGPT and AI Tools](https://github.com/drshahizan/Generative-AI-Playground)**: This workshop explores the capabilities of ChatGPT and other AI tools in the context of creative and academic applications.
 
-- **[UTM - Penulisan Buku Karya Asli](https://github.com/drshahizan/mybooks)**: A course on writing and publishing original works, with a focus on academic and research materials.
+- **🇲🇾 [UTM - Penulisan Buku Karya Asli](https://github.com/drshahizan/mybooks)**: A course on writing and publishing original works, with a focus on academic and research materials.
 
-- **[UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)**: Offers insights into leveraging AI for conducting systematic literature reviews more efficiently.
+- **🇲🇾[UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)**: Offers insights into leveraging AI for conducting systematic literature reviews more efficiently.
   - [Obsidian Vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)
   - [Systematic Literature Review](https://drshahizan.gitbook.io/slr/)
   - [Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)
   - [AI tools](https://drshahizan.gitbook.io/ai-tools/)
 
-- **[Universitas Padjadjaran: AI for Innovation](https://github.com/drshahizan/AI-Innovation)**: A course that examines the role of AI in driving innovation across various sectors.
+- 🇮🇩 **[Universitas Padjadjaran: AI for Innovation](https://github.com/drshahizan/AI-Innovation)**: A course that examines the role of AI in driving innovation across various sectors.
 
 - **[UTM - Research Colloquium: Learn Github](https://github.com/drshahizan/learn-github)**: Part of a research colloquium series, this session focuses on the use of GitHub in research settings.
 ## Data Science and Software
