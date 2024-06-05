@@ -55,7 +55,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
   <img src="https://github.com/drshahizan/SLR-MIIT/blob/main/images/MSO-SLR.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
-- **🆕 [UTM - Program for Leadership: Negotiation, Change and Strategic Decision Making](https://github.com/drshahizan/ai-tools/blob/main/sepp2024.md)**. Module: How AI tools can be used by University Academic Managers.
+- **🇲🇾 [UTM - Program for Leadership: Negotiation, Change and Strategic Decision Making](https://github.com/drshahizan/ai-tools/blob/main/sepp2024.md)**. Module: How AI tools can be used by University Academic Managers.
 
 - **🇲🇾 [UiTM - Seminar Pengurusan Pentadbir (SePP) 2024](https://github.com/drshahizan/ai-tools/blob/main/sepp2024.md)**. Sesi 7: Kecerdasan Buatan dan Kepimpinan Strategik: Merangka Masa Depan Universiti yang Mampan
 
@@ -73,7 +73,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 - **🇲🇾 [UTM - Penulisan Buku Karya Asli](https://github.com/drshahizan/mybooks)**: A course on writing and publishing original works, with a focus on academic and research materials.
 
-- **🇲🇾[UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)**: Offers insights into leveraging AI for conducting systematic literature reviews more efficiently.
+- 🇲🇾 **[UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)**: Offers insights into leveraging AI for conducting systematic literature reviews more efficiently.
   - [Obsidian Vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)
   - [Systematic Literature Review](https://drshahizan.gitbook.io/slr/)
   - [Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)
@@ -81,7 +81,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 - 🇮🇩 **[Universitas Padjadjaran: AI for Innovation](https://github.com/drshahizan/AI-Innovation)**: A course that examines the role of AI in driving innovation across various sectors.
 
-- **[UTM - Research Colloquium: Learn Github](https://github.com/drshahizan/learn-github)**: Part of a research colloquium series, this session focuses on the use of GitHub in research settings.
+- 🇲🇾 **[UTM - Research Colloquium: Learn Github](https://github.com/drshahizan/learn-github)**: Part of a research colloquium series, this session focuses on the use of GitHub in research settings.
 ## Data Science and Software
 
 - **[Obsidian vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)**: A curated collection of resources for conducting systematic literature reviews with a focus on computer science.
