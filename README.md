@@ -55,9 +55,8 @@ Explore my projects below, and let's collaborate on something impactful!  😊
   <img src="https://github.com/drshahizan/SLR-MIIT/blob/main/images/MSO-SLR.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
-- **🇲🇾 [UTM - FSSH: Next-Gen Ai-Tools: Elevating Research And Classroom Experience](https://github.com/drshahizan/ai-tools/blob/main/materials/fssh/readme.md)**
+- 🔜 **🇲🇾 [UTM - FSSH: Next-Gen Ai-Tools: Elevating Research And Classroom Experience](https://github.com/drshahizan/ai-tools/blob/main/materials/fssh/readme.md)**
 
-https://github.com/drshahizan/ai-tools/blob/main/materials/fssh/readme.md
 - **🇲🇾 [UTM - Program for Leadership: Negotiation, Change and Strategic Decision Making](https://github.com/drshahizan/ai-tools/blob/main/materials/leadership.md)**. Module: How AI tools can be used by University Academic Managers.
 
 - **🇲🇾 [UiTM - Seminar Pengurusan Pentadbir (SePP) 2024](https://github.com/drshahizan/ai-tools/blob/main/sepp2024.md)**. Sesi 7: Kecerdasan Buatan dan Kepimpinan Strategik: Merangka Masa Depan Universiti yang Mampan
