@@ -55,7 +55,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
   <img src="https://github.com/drshahizan/SLR-MIIT/blob/main/images/MSO-SLR.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
-- **🇲🇾 [UTM National Training Week 2024](https://github.com/drshahizan/ai-tools/edit/main/materials/untw.md)**
+- **🇲🇾 [UTM National Training Week 2024. Generatif AI Memudahkan Aktiviti Harian: Transformasi Gaya Hidup Masa Kini](https://github.com/drshahizan/ai-tools/edit/main/materials/untw.md)**
 
 - **🇲🇾 🔜 [UTM - FSSH: Next-Gen Ai-Tools: Elevating Research And Classroom Experience](https://github.com/drshahizan/ai-tools/blob/main/materials/fssh/readme.md)**
 
