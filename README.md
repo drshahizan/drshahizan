@@ -45,7 +45,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 <a href="https://github.com/drshahizan/ai-tools/">
   <img src="https://github.com/drshahizan/SLR-FC/blob/main/images/dorsu.jpeg" alt="Image Alt Text"  height="200">
 </a>
-<br>
+
 <a href="https://github.com/drshahizan/learn-github/blob/main/pgss.md">
   <img src="https://github.com/drshahizan/learn-github/blob/main/images/Github_poster.jpeg" alt="Image Alt Text"  height="200">
 </a>
