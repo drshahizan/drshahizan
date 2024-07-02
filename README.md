@@ -62,7 +62,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 - 🇮🇩 **[Universitas Islam Negeri Imam Bonjol, Padang: Transformasi Penulisan Ilmiah dalam Bidang Ekonomi dan Perbankan melalui Generatif AI: Peluang dan Tantangan.](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UIN.md)** Kuliah umum ini bertujuan untuk mengeksplorasi bagaimana teknologi Kecerdasan Buatan Generatif dapat merevolusi penulisan ilmiah di bidang ekonomi dan perbankan.
 
-- 🇮🇩 **[Sekolah Tinggi Ilmu Ekonomi Keuangan, Perbankan dan Pembangunan (STIE KBP), Padang: Penulisan Artikel Ilmiah di Bidang Perbankan dengan Penerapan Kecerdasan Buatan.](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/STIE.md)** Kuliah umum ini akan menyoroti penggunaan AI generatif dalam penulisan ilmiah. Dalam seminar ini, peserta akan mempelajari bagaimana AI generatif dapat dimanfaatkan untuk menyusun artikel ilmiah dengan lebih efisien dan akurat.
+- 🇮🇩 **[Sekolah Tinggi Ilmu Ekonomi Keuangan, Perbankan dan Pembangunan (STIE KBP), Padang: Penulisan Artikel Ilmiah di Bidang Perbankan dengan Penerapan Kecerdasan Buatan.](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/STIE.md)** Kuliah umum ini akan menyoroti penggunaan AI generatif dalam penulisan ilmiah. Dalam kuliah ini, peserta akan mempelajari bagaimana AI generatif dapat dimanfaatkan untuk menyusun artikel ilmiah dengan lebih efisien dan akurat.
 
 - **🇲🇾 [UTM National Training Week 2024](https://github.com/drshahizan/ai-tools/blob/main/materials/untw.md).** Generatif AI Memudahkan Aktiviti Harian: Transformasi Gaya Hidup Masa Kini.
 
