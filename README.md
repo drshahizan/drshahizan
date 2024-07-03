@@ -60,7 +60,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 - 🇮🇩 **[Konsortium Perguruan Tinggi Islam Swasta, Padang: Revolusi Penulisan Ilmu Sosial: Integrasi AI Generatif untuk Konten yang Inovatif.](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/KPTI.md)** Kuliah umum ini akan membahas bagaimana AI generatif dapat digunakan untuk menghasilkan ide-ide baru dan memperkaya konten artikel ilmu sosial.
 
-- 🇮🇩 **[Universitas Putra Indonesia “YPTK” Padang: Menulis Artikel dengan Bantuan Kecerdasan Buatan](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/YPTK.md)** Kuliah umum dengan ini akan membahas bagaimana teknologi AI dapat digunakan untuk meningkatkan efisiensi dan kualitas dalam penulisan artikel.
+- 🇮🇩 **[Universitas Putra Indonesia “YPTK” Padang: Menulis Artikel dengan Bantuan Kecerdasan Buatan.](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/YPTK.md)** Kuliah umum dengan ini akan membahas bagaimana teknologi AI dapat digunakan untuk meningkatkan efisiensi dan kualitas dalam penulisan artikel.
 
 - 🇮🇩 **[Universitas Islam Negeri Imam Bonjol, Padang: Transformasi Penulisan Ilmiah dalam Bidang Ekonomi dan Perbankan melalui Generatif AI: Peluang dan Tantangan.](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UIN.md)** Kuliah antarabangsa ini bertujuan untuk mengeksplorasi bagaimana teknologi Kecerdasan Buatan Generatif dapat merevolusi penulisan ilmiah di bidang ekonomi dan perbankan.
 
