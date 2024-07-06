@@ -32,6 +32,10 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 - **[Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)**: Explores the concepts of personal values and identity within the context of societal norms and expectations.
 
 ## Short Courses
+<a href="https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/KPTI.md">
+  <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/KPTIbanner.jpeg" alt="Image Alt Text"  height="200">
+</a>
+
 <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/untw.md">
   <img src="https://github.com/drshahizan/ai-tools/blob/main/images/UNTW_poster.jpeg" alt="Image Alt Text"  height="200">
 </a>
