@@ -32,7 +32,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 - **[Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)**: Explores the concepts of personal values and identity within the context of societal norms and expectations.
 
 ## Short Courses
-<a href="https://github.com/drshahizan/ai-tools/blob/main/materials/fssh/readme.md">
+<a href="https://github.com/drshahizan/SLR-FC/blob/main/ws_wos.md">
  <img src="https://github.com/drshahizan/SLR-FC/blob/main/images/SLR%20mso.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
