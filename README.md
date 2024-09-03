@@ -80,7 +80,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
   <img src="https://github.com/drshahizan/SLR-MIIT/blob/main/images/MSO-SLR.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
-- **🇲🇾 [UTM-CTLD: Managing Change As A Leader In Digital Transformative Era](https://github.com/drshahizan/ai-tools/blob/main/materials/optimum.md)**
+- **🇲🇾 [UTM-CTLD: Managing Change as a Leader in Digital Transformative Era](https://github.com/drshahizan/ai-tools/blob/main/materials/optimum.md)**
 
 - **🇲🇾 [UTM - Jabatan Pendaftar: Mengoptimumkan Produktiviti Kerja dengan menggunakan Generatif AI](https://github.com/drshahizan/ai-tools/blob/main/materials/optimum.md)**
 
