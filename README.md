@@ -84,6 +84,9 @@ Explore my projects below, and let's collaborate on something impactful!  😊
   <img src="https://github.com/drshahizan/SLR-MIIT/blob/main/images/MSO-SLR.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
+- **🇲🇾 [UTM-BDC: Generative AI (Artificial Intelligence) in Administration](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/bdc_ai.md)**
+
+
 - **🇲🇾 [UTM-CTLD: Managing Change as a Leader in Digital Transformative Era](https://github.com/drshahizan/ai-tools/blob/main/materials/digital_transform.md)**
 
 - **🇲🇾 [UTM - Jabatan Pendaftar: Mengoptimumkan Produktiviti Kerja dengan menggunakan Generatif AI](https://github.com/drshahizan/ai-tools/blob/main/materials/optimum.md)**
