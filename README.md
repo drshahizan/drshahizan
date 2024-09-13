@@ -33,6 +33,10 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 ## Short Courses
 <a href="https://github.com/drshahizan/SLR-FC/blob/main/ws_wos.md">
+ <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/BDC_AI.jpeg" alt="Image Alt Text"  height="200">
+</a>
+
+<a href="https://github.com/drshahizan/SLR-FC/blob/main/ws_wos.md">
  <img src="https://github.com/drshahizan/SLR-FC/blob/main/images/SLR%20mso.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
