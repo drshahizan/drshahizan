@@ -15,7 +15,9 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 - **[Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)**
   
-- **[Software Project Management](https://github.com/drshahizan/research-design)**
+- **[Software Project Management](https://github.com/drshahizan/research-design)**: This course is designed to provide students with in depth knowledge on software project
+planning, cost estimation and scheduling, project management tools, factors influencing productivity and success, productivity metrics, analysis of options and risks, software process
+improvement, software contracts and intelectual property and approaches to maintenance and long term software development. 
 
 - **[Big Data Management](https://github.com/drshahizan/BDM)**: Focuses on the principles and practices of managing large and complex datasets.
 
