@@ -14,7 +14,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 ## 📚 Courses
 
 - **[Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)**
-- 
+  
 - **[Software Project Management](https://github.com/drshahizan/research-design)**
 
 - **[Big Data Management](https://github.com/drshahizan/BDM)**: Focuses on the principles and practices of managing large and complex datasets.
