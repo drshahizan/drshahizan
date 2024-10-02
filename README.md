@@ -19,7 +19,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 - 🆕 **[Advanced Computer System & Architecture](https://github.com/drshahizan/computer-system)**: This course focuses on advanced topics in the design and analysis of computer architectures. Topics covered include instruction set design, pipelining, instruction- level parallelism, high-speed memory systems, storage systems, interconnection networks, and multiprocessor architectures.
 
-- 🆕 **[Special Topic in Software Engineering](https://github.com/drshahizan/computer-system)**: This course provides students with current issues related to software engineering in general and specifically in software development life cycle that includes planning, analysis, design, implementation, and maintenance. The key objective of this course is to equip the students with the knowledge in current issues mainly the research done to solve related problems.
+- 🆕 **[Special Topic in Software Engineering](https://github.com/drshahizan/special-topic-software-engineering)**: This course provides students with current issues related to software engineering in general and specifically in software development life cycle that includes planning, analysis, design, implementation, and maintenance. The key objective of this course is to equip the students with the knowledge in current issues mainly the research done to solve related problems.
 
 - **[Big Data Management](https://github.com/drshahizan/BDM)**: Focuses on the principles and practices of managing large and complex datasets.
 
