@@ -19,7 +19,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 planning, cost estimation and scheduling, project management tools, factors influencing productivity and success, productivity metrics, analysis of options and risks, software process
 improvement, software contracts and intelectual property and approaches to maintenance and long term software development.
 
-- **[Advanced Computer System & Architecture](https://github.com/drshahizan/project-management)**: 
+- **[Advanced Computer System & Architecture](https://github.com/drshahizan/computer-system)**: 
 
 - **[Big Data Management](https://github.com/drshahizan/BDM)**: Focuses on the principles and practices of managing large and complex datasets.
 
