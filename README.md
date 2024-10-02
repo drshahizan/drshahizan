@@ -17,7 +17,9 @@ Explore my projects below, and let's collaborate on something impactful!  😊
   
 - **[Software Project Management](https://github.com/drshahizan/project-management)**: This course is designed to provide students with in depth knowledge on software project
 planning, cost estimation and scheduling, project management tools, factors influencing productivity and success, productivity metrics, analysis of options and risks, software process
-improvement, software contracts and intelectual property and approaches to maintenance and long term software development. 
+improvement, software contracts and intelectual property and approaches to maintenance and long term software development.
+
+- **[Advanced Computer System & Architecture](https://github.com/drshahizan/project-management)**: 
 
 - **[Big Data Management](https://github.com/drshahizan/BDM)**: Focuses on the principles and practices of managing large and complex datasets.
 
