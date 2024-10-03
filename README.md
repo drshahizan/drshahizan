@@ -19,7 +19,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 - 🆕 **[Advanced Computer System & Architecture](https://github.com/drshahizan/computer-system)**: This course focuses on advanced topics in the design and analysis of computer architectures. Topics covered include instruction set design, pipelining, instruction- level parallelism, high-speed memory systems, storage systems, interconnection networks, and multiprocessor architectures.
 
-- 🆕 **[Special Topic in Software Engineering](https://github.com/drshahizan/special-topic-software-engineering)**: This course presents a top-down view of cloud computing, from applications and administration to programming and infrastructure. Its main focus is on parallel programming techniques for cloud computing and large scale distributed systems which form the cloud infrastructure. .
+- 🆕 **[Special Topic in Software Engineering](https://github.com/drshahizan/special-topic-software-engineering)**: This course presents a top-down view of cloud computing, from applications and administration to programming and infrastructure. Its main focus is on parallel programming techniques for cloud computing and large scale distributed systems which form the cloud infrastructure.
 
 - **[Big Data Management](https://github.com/drshahizan/BDM)**: Focuses on the principles and practices of managing large and complex datasets.
 
