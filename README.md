@@ -90,7 +90,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
   <img src="https://github.com/drshahizan/SLR-MIIT/blob/main/images/MSO-SLR.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
-- **🇮🇩 [Universitas Airlangga: Machine Translation & Chatbot](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/bdc_ai.md)**
+- **🇮🇩 [Universitas Airlangga: Machine Translation & Chatbot](https://github.com/drshahizan/special-topic-data-engineering/blob/main/materials/chatbot.md)**
 
 - **🇲🇾 [UTM-BDC: Generative AI (Artificial Intelligence) in Administration](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/bdc_ai.md)**
 
