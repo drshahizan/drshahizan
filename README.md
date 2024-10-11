@@ -94,6 +94,8 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 - **🇮🇩 [Universitas Airlangga: Machine Translation & Chatbot](https://github.com/drshahizan/special-topic-data-engineering/blob/main/materials/chatbot.md)**
 
+- 🇮🇩 **[Universitas Putra Indonesia “YPTK” Padang: Workshop Penulisan Artikel Ilmiah: Pengenalan AI Tools (Seri 1).](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/YPTK.md)** 
+
 - **🇲🇾 [UTM-BDC: Generative AI (Artificial Intelligence) in Administration](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/bdc_ai.md)**
 
 
