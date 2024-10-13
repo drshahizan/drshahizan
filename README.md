@@ -39,7 +39,8 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 - **[Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)**: Explores the concepts of personal values and identity within the context of societal norms and expectations.
 
-## Short Courses
+## 🌍 Collaborative Workshops and Courses
+
 <a href="https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UPI.md">
  <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/Upi_ai_tools.jpeg" alt="Image Alt Text"  height="200">
 </a>
@@ -148,6 +149,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 - 🇮🇩 **[Universitas Padjadjaran: AI for Innovation](https://github.com/drshahizan/AI-Innovation)**: A course that examines the role of AI in driving innovation across various sectors.
 
 - 🇲🇾 **[UTM - Research Colloquium: Learn Github](https://github.com/drshahizan/learn-github)**: Part of a research colloquium series, this session focuses on the use of GitHub in research settings.
+  
 ## Data Science and Software
 
 - **[Obsidian vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)**: A curated collection of resources for conducting systematic literature reviews with a focus on computer science.
