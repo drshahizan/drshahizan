@@ -97,59 +97,33 @@ Explore my projects below, and let's collaborate on something impactful!  😊
   <img src="https://github.com/drshahizan/SLR-MIIT/blob/main/images/MSO-SLR.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
-- **🇮🇩 [Universitas Airlangga: Machine Translation & Chatbot](https://github.com/drshahizan/special-topic-data-engineering/blob/main/materials/chatbot.md)**
+| 🌍 **Institution**                                        | 📚 **Workshop/Course Title**                                                                                          | 📝 **Description**                                                                                                    |
+|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| 🇮🇩 Universitas Airlangga                                  | [Machine Translation & Chatbot](https://github.com/drshahizan/special-topic-data-engineering/blob/main/materials/chatbot.md) | Explore AI-driven machine translation and chatbot systems.                                                            |
+| 🇮🇩 Universitas Putra Indonesia “YPTK” Padang              | [Workshop Penulisan Artikel Ilmiah - Pengenalan AI Tools (Seri 1)](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UPI.md) | Learn to use AI tools for writing high-quality scientific articles.                                                   |
+| 🇲🇾 UTM-BDC                                                | [Generative AI in Administration](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/bdc_ai.md) | Discover how AI can enhance administrative efficiency and innovation.                                                 |
+| 🇲🇾 UTM-CTLD                                               | [Managing Change as a Leader in the Digital Era](https://github.com/drshahizan/ai-tools/blob/main/materials/digital_transform.md) | Leadership strategies for adapting to digital transformation.                                                        |
+| 🇲🇾 UTM - Jabatan Pendaftar                                | [Mengoptimumkan Produktiviti Kerja dengan Generatif AI](https://github.com/drshahizan/ai-tools/blob/main/materials/optimum.md) | Boost workplace productivity using generative AI tools.                                                              |
+| 🇲🇾 UTM - FSSH                                             | [Next-Gen AI-Tools: Elevating Research and Classroom Experience](https://github.com/drshahizan/ai-tools/blob/main/materials/fssh/readme.md) | Integrating AI tools to transform research methodologies and enhance teaching.                                         |
+| 🇳🇬 ISS Nigeria & UTMI                                     | [Exploratory Data Analysis Techniques in Python](https://github.com/drshahizan/Python_EDA/tree/main)                    | Learn essential data analysis skills using Python.                                                                   |
+| 🇮🇩 Konsortium Perguruan Tinggi Islam Swasta, Padang       | [Revolusi Penulisan Ilmu Sosial dengan AI Generatif](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/KPTI.md) | Discover how AI can revolutionize content creation in social sciences.                                                |
+| 🇮🇩 Universitas Putra Indonesia “YPTK” Padang              | [Menulis Artikel dengan Bantuan Kecerdasan Buatan](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/YPTK.md) | Learn how AI enhances article writing quality and efficiency.                                                         |
+| 🇮🇩 Universitas Islam Negeri Imam Bonjol, Padang           | [Penulisan Ilmiah dalam Ekonomi dan Perbankan melalui AI Generatif](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UIN.md) | Explore how AI transforms academic writing in economics and banking.                                                  |
+| 🇮🇩 STIE KBP, Padang                                       | [Penulisan Artikel Ilmiah di Bidang Perbankan dengan Kecerdasan Buatan](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/STIE.md) | Apply AI generative tools to streamline writing in banking research.                                                  |
+| 🇲🇾 UTM National Training Week 2024                        | [Generatif AI Memudahkan Aktiviti Harian](https://github.com/drshahizan/ai-tools/blob/main/materials/untw.md)           | See how generative AI can transform daily tasks and modern living.                                                    |
+| 🇲🇾 UTM - Program for Leadership                           | [Negotiation, Change, and Strategic Decision Making](https://github.com/drshahizan/ai-tools/blob/main/materials/leadership.md) | Use AI tools to enhance leadership strategies for negotiation and change management.                                   |
+| 🇲🇾 UiTM - Seminar Pengurusan Pentadbir (SePP) 2024        | [Kecerdasan Buatan dan Kepimpinan Strategik](https://github.com/drshahizan/ai-tools/blob/main/sepp2024.md)              | Learn how AI can shape the future of university leadership.                                                           |
+| 🇲🇾 UTMSpace                                               | [Discover the Power of Generative AI](https://github.com/drshahizan/Generative-AI-Playground/blob/main/discover.md)     | A hands-on workshop exploring the creative and academic applications of AI.                                           |
+| 🇲🇾 UTHM                                                  | [Higher Education Research Optimization for Index Publication (HERO 2024)](https://github.com/drshahizan/ai-tools/blob/main/hero.md) | Learn how to optimize research publications using AI tools.                                                           |
+| 🇵🇭 Davao Oriental State University                        | [2024 Research Colloquium: AI for Literature Reviews](https://github.com/drshahizan/ai-tools/)                          | Discover how AI enhances the literature review process for researchers.                                               |
+| 🇲🇾 UniKL                                                 | [Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)                                  | Master AI-powered tools for conducting systematic literature reviews efficiently.                                      |
+| 🇲🇾 PGSS FC                                               | [GitHub for Research Students: From Code to Collaboration](https://github.com/drshahizan/learn-github/blob/main/pgss.md) | A short course on leveraging GitHub for research collaboration.                                                       |
+| 🇲🇾 UTM CDex                                               | [Workshop on ChatGPT and AI Tools](https://github.com/drshahizan/Generative-AI-Playground)                              | Explore the potential of ChatGPT and AI tools for academic and creative purposes.                                      |
+| 🇲🇾 UTM - Penulisan Buku Karya Asli                        | [Writing Original Academic Works](https://github.com/drshahizan/mybooks)                                                | Learn how to write and publish original academic works.                                                               |
+| 🇲🇾 UTM - Systematic Literature Review Using AI            | [Efficient Systematic Literature Reviews with AI](https://github.com/drshahizan/SLR-FC)                                 | Streamline the literature review process using AI tools.                                                              |
+| 🇮🇩 Universitas Padjadjaran                                | [AI for Innovation](https://github.com/drshahizan/AI-Innovation)                                                        | Explore how AI is driving innovation across industries.                                                               |
+| 🇲🇾 UTM - Research Colloquium                              | [Learn GitHub for Academic Research](https://github.com/drshahizan/learn-github)                                         | A workshop on using GitHub effectively in research environments.                                                      |
 
-- 🇮🇩 **[Universitas Putra Indonesia “YPTK” Padang: Workshop Penulisan Artikel Ilmiah: Pengenalan AI Tools (Seri 1)](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UPI.md)** 
-
-- **🇲🇾 [UTM-BDC: Generative AI (Artificial Intelligence) in Administration](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/bdc_ai.md)**
-
-
-- **🇲🇾 [UTM-CTLD: Managing Change as a Leader in Digital Transformative Era](https://github.com/drshahizan/ai-tools/blob/main/materials/digital_transform.md)**
-
-- **🇲🇾 [UTM - Jabatan Pendaftar: Mengoptimumkan Produktiviti Kerja dengan menggunakan Generatif AI](https://github.com/drshahizan/ai-tools/blob/main/materials/optimum.md)**
-
-- **🇲🇾 [UTM - FSSH: Next-Gen Ai-Tools: Elevating Research And Classroom Experience](https://github.com/drshahizan/ai-tools/blob/main/materials/fssh/readme.md)**
-
-- **🇳🇬 [ISS Nigeria & UTMI - Exploratory Data Analysis Techniques in Python](https://github.com/drshahizan/Python_EDA/tree/main)**
-
-- 🇮🇩 **[Konsortium Perguruan Tinggi Islam Swasta, Padang: Revolusi Penulisan Ilmu Sosial: Integrasi AI Generatif untuk Konten yang Inovatif.](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/KPTI.md)** Kuliah umum ini akan membahas bagaimana AI generatif dapat digunakan untuk menghasilkan ide-ide baru dan memperkaya konten artikel ilmu sosial.
-
-- 🇮🇩 **[Universitas Putra Indonesia “YPTK” Padang: Menulis Artikel dengan Bantuan Kecerdasan Buatan.](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/YPTK.md)** Kuliah umum dengan ini akan membahas bagaimana teknologi AI dapat digunakan untuk meningkatkan efisiensi dan kualitas dalam penulisan artikel.
-
-- 🇮🇩 **[Universitas Islam Negeri Imam Bonjol, Padang: Transformasi Penulisan Ilmiah dalam Bidang Ekonomi dan Perbankan melalui Generatif AI: Peluang dan Tantangan.](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UIN.md)** Kuliah antarabangsa ini bertujuan untuk mengeksplorasi bagaimana teknologi Kecerdasan Buatan Generatif dapat merevolusi penulisan ilmiah di bidang ekonomi dan perbankan.
-
-- 🇮🇩 **[Sekolah Tinggi Ilmu Ekonomi Keuangan, Perbankan dan Pembangunan (STIE KBP), Padang: Penulisan Artikel Ilmiah di Bidang Perbankan dengan Penerapan Kecerdasan Buatan.](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/STIE.md)** Kuliah umum ini akan menyoroti penggunaan AI generatif dalam penulisan ilmiah. Dalam kuliah ini, peserta akan mempelajari bagaimana AI generatif dapat dimanfaatkan untuk menyusun artikel ilmiah dengan lebih efisien dan akurat.
-
-- **🇲🇾 [UTM National Training Week 2024](https://github.com/drshahizan/ai-tools/blob/main/materials/untw.md).** Generatif AI Memudahkan Aktiviti Harian: Transformasi Gaya Hidup Masa Kini.
-
-- **🇲🇾 [UTM - Program for Leadership: Negotiation, Change and Strategic Decision Making](https://github.com/drshahizan/ai-tools/blob/main/materials/leadership.md)**. Module: How AI tools can be used by University Academic Managers.
-
-- **🇲🇾 [UiTM - Seminar Pengurusan Pentadbir (SePP) 2024](https://github.com/drshahizan/ai-tools/blob/main/sepp2024.md)**. Sesi 7: Kecerdasan Buatan dan Kepimpinan Strategik: Merangka Masa Depan Universiti yang Mampan
-
-- **🇲🇾 [UTMSpace - Discover the Power of Generative AI](https://github.com/drshahizan/Generative-AI-Playground/blob/main/discover.md)**
-
-- **🇲🇾 [UTHM - Higher Education Research Optimization for Index Publication (HERO 2024)](https://github.com/drshahizan/ai-tools/blob/main/hero.md)** This workshop serves as an introduction to artificial intelligence (AI) technology for writing high-quality articles. It will guide faculty members to write high-quality articles by integrating AI technology and thus gain the ability to prepare and perfect academic manuscripts using AI from the first draft stage to final publication.
-
-- **🇵🇭[The Davao Oriental State University - 2024 Research Colloqium. Unlocking Scholarly Insights: How AI Enhances Literature Reviews](https://github.com/drshahizan/ai-tools/)** refers to the transformative impact of artificial intelligence on the process of conducting literature reviews
-
-- **🇲🇾 [UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)**: A workshop series that introduces the use of AI tools in conducting systematic literature reviews.
-  
-- **🇲🇾 [PGSS FC - GitHub for Research Students: From Code to Collaboration](https://github.com/drshahizan/learn-github/blob/main/pgss.md)**: A short course designed to teach research students how to use GitHub for collaborative projects.
-  
-- **🇲🇾 [UTM CDex - A Workshop on ChatGPT and AI Tools](https://github.com/drshahizan/Generative-AI-Playground)**: This workshop explores the capabilities of ChatGPT and other AI tools in the context of creative and academic applications.
-
-- **🇲🇾 [UTM - Penulisan Buku Karya Asli](https://github.com/drshahizan/mybooks)**: A course on writing and publishing original works, with a focus on academic and research materials.
-
-- 🇲🇾 **[UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)**: Offers insights into leveraging AI for conducting systematic literature reviews more efficiently.
-  - [Obsidian Vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)
-  - [Systematic Literature Review](https://drshahizan.gitbook.io/slr/)
-  - [Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)
-  - [AI tools](https://drshahizan.gitbook.io/ai-tools/)
-
-- 🇮🇩 **[Universitas Padjadjaran: AI for Innovation](https://github.com/drshahizan/AI-Innovation)**: A course that examines the role of AI in driving innovation across various sectors.
-
-- 🇲🇾 **[UTM - Research Colloquium: Learn Github](https://github.com/drshahizan/learn-github)**: Part of a research colloquium series, this session focuses on the use of GitHub in research settings.
-  
 ## Data Science and Software
 
 - **[Obsidian vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)**: A curated collection of resources for conducting systematic literature reviews with a focus on computer science.
