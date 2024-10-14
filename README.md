@@ -13,6 +13,12 @@ I'm a Lecturer at [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/) pas
 
 Explore my projects below, and let's collaborate on something impactful!  😊
 
+<a href="https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UPI.md">
+ <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/Upi_ai_tools.jpeg" alt="Image Alt Text"  height="800">
+</a>
+
+
+
 ## 📚 Courses
 
 - 🆕 **[Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)**: This course will cover the fundamental steps and implementation on developing the initial ideas to formal academic writing accordingly. 
