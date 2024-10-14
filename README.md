@@ -14,7 +14,7 @@ I'm a Lecturer at [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/) pas
 Explore my projects below, and let's collaborate on something impactful!  😊
 
 <a href="https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UPI.md">
- <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/Upi_ai_tools.jpeg" alt="Image Alt Text"  height="800">
+ <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/Upi_ai_tools.jpeg" alt="Image Alt Text"  height="700">
 </a>
 
 
