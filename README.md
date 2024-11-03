@@ -46,6 +46,10 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 ## 🌍 Collaborative Workshops and Courses
 
+<a href="https://github.com/drshahizan/special-topic-data-engineering/blob/main/materials/chatbot.md">
+ <img src="https://github.com/drshahizan/special-topic-data-engineering/blob/main/images/Talk_airlangga.jpeg" alt="Image Alt Text"  height="200">
+</a>
+
 <a href="https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UPI.md">
  <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/Upi_ai_tools.jpeg" alt="Image Alt Text"  height="200">
 </a>
