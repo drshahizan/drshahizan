@@ -14,6 +14,11 @@ I'm a Lecturer at [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/) pas
 Explore my projects below, and let's collaborate on something impactful!  😊
 
 ## 🚀 Agile Collaboration Hacks ⚡
+
+<a href="https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/bdc_ai.md">
+ <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/BDC_AI_nov.png" alt="Image Alt Text"  height="400">
+</a>
+
 <a href="https://github.com/drshahizan/special-topic-data-engineering/blob/main/materials/chatbot.md">
  <img src="https://github.com/drshahizan/special-topic-data-engineering/blob/main/images/Talk_airlangga.jpeg" alt="Image Alt Text"  height="400">
 </a>
@@ -58,12 +63,12 @@ Explore my projects below, and let's collaborate on something impactful!  😊
  <img src="https://github.com/drshahizan/special-topic-data-engineering/blob/main/images/Talk_airlangga.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
-<a href="https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UPI.md">
- <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/Upi_ai_tools.jpeg" alt="Image Alt Text"  height="200">
-</a>
-
 <a href="https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/bdc_ai.md">
  <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/BDC_AI_nov.png" alt="Image Alt Text"  height="200">
+</a>
+
+<a href="https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UPI.md">
+ <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/Upi_ai_tools.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
 <a href="https://github.com/drshahizan/SLR-FC/blob/main/ws_wos.md">
