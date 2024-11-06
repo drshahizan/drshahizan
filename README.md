@@ -55,6 +55,10 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 ## 🌍 Collaborative Workshops and Courses
 
+<a href="https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/ITP.md">
+ <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/ITP.jpeg" alt="Image Alt Text"  height="200">
+</a>
+
 <a href="https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UNP.md">
  <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/workshopUNP.jpeg" alt="Image Alt Text"  height="200">
 </a>
