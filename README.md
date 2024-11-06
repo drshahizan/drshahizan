@@ -19,16 +19,8 @@ Explore my projects below, and let's collaborate on something impactful!  😊
  <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/ITP.jpeg" alt="Image Alt Text"  height="400">
 </a>
 
-<a href="https://github.com/drshahizan/special-topic-data-engineering/blob/main/materials/chatbot.md">
- <img src="https://github.com/drshahizan/special-topic-data-engineering/blob/main/images/Talk_airlangga.jpeg" alt="Image Alt Text"  height="400">
-</a>
-
 <a href="https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UNP.md">
  <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/workshopUNP.jpeg" alt="Image Alt Text"  height="400">
-</a>
-
-<a href="https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/bdc_ai.md">
- <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/BDC_AI_nov.png" alt="Image Alt Text"  height="400">
 </a>
 
 ## 📚 Courses
