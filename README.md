@@ -19,14 +19,6 @@ Explore my projects below, and let's collaborate on something impactful!  😊
  <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/workshopUPI2.jpeg" alt="Image Alt Text"  height="400">
 </a>
 
-<a href="https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/ITP.md">
- <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/ITP.jpeg" alt="Image Alt Text"  height="400">
-</a>
-
-<a href="https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UNP.md">
- <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/workshopUNP.jpeg" alt="Image Alt Text"  height="400">
-</a>
-
 ## 📚 Courses
 
 - 🆕 **[Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)**: This course will cover the fundamental steps and implementation on developing the initial ideas to formal academic writing accordingly. 
