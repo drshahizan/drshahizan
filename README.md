@@ -12,13 +12,13 @@ I'm a Lecturer at [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/) pas
 - 👥 [Committed to building a strong network within the developer community. Feel free to connect and share your ideas!](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/malaysia.md). -->
 
 Explore my projects below, and let's collaborate on something impactful!  😊
-<!--
+
 ## 🚀 Agile Collaboration Hacks ⚡
 
 <a href="https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UPI2.md">
- <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/workshopUPI2.jpeg" alt="Image Alt Text"  height="400">
+ <img src="https://github.com/drshahizan/short-course/blob/main/image/UPSI_c1_2025.jpeg" alt="Image Alt Text"  height="400">
 </a>
--->
+
 ## 📚 Courses
 
 - 🆕 **[Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)**: This course will cover the fundamental steps and implementation on developing the initial ideas to formal academic writing accordingly. 
