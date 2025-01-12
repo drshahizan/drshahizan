@@ -4,7 +4,9 @@
 
  # Dr Shahizan | Academic & Tech Educator  <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
 
-I'm a Lecturer at [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/) passionate about education and fostering a love for software development. 
+Educating future leaders as a Lecturer at [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/), with a strong passion for software development and innovation.
+
+
 
 <!-- I'm constantly seeking opportunities to learn and contribute to the open-source community. Here's what I'm up to on GitHub:
 
