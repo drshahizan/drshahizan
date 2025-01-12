@@ -2,7 +2,7 @@
 ![GitHub Star](https://img.shields.io/github/stars/drshahizan?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
- # Dr Shahizan | Lecturer & Software Enthusiast <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
+ # Dr Shahizan | Academic & Tech Educator  <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
 
 I'm a Lecturer at [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/) passionate about education and fostering a love for software development. 
 
