@@ -15,7 +15,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 ## 🚀 Agile Collaboration Hacks ⚡
 
-<a href="https://github.com/drshahizan/short-course">
+<a href="https://github.com/drshahizan/short-course/tree/main/25kewangan">
  <img src="https://github.com/drshahizan/short-course/blob/main/25kewangan/imej/qr25kewangan.png" alt="Image Alt Text"  height="400">
 </a>
 
