@@ -16,11 +16,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 ## 🚀 Agile Collaboration Hacks ⚡
 
 <a href="https://github.com/drshahizan/short-course">
- <img src="https://github.com/drshahizan/short-course/blob/main/image/25%20Gen%20AI.jpeg" alt="Image Alt Text"  height="400">
-</a>
-
-<a href="https://github.com/drshahizan/short-course">
- <img src="https://github.com/drshahizan/short-course/blob/main/image/ctld.png" alt="Image Alt Text"  height="400">
+ <img src="https://github.com/drshahizan/short-course/blob/main/25kewangan/imej/qr25kewangan.png" alt="Image Alt Text"  height="400">
 </a>
 
 ## 📚 Courses
