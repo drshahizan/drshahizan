@@ -19,6 +19,28 @@ Explore my projects below, and let's collaborate on something impactful!  😊
  <img src="https://github.com/drshahizan/short-course/blob/main/25slr/images/25slr.jpeg" alt="Image Alt Text"  height="400">
 </a>
 
+## 🌍 Collaborative Workshops and Courses: Year 2025
+
+<a href="https://github.com/drshahizan/short-course/tree/main/25slr">
+ <img src="https://github.com/drshahizan/short-course/blob/main/25slr/images/25slr.jpeg" alt="Image Alt Text"  height="200">
+</a> 
+<a href="https://github.com/drshahizan/short-course/tree/main/25ctld">
+ <img src="https://github.com/drshahizan/short-course/blob/main/image/25%20Gen%20AI.jpeg" alt="Image Alt Text"  height="200">
+</a>
+<a href="https://github.com/drshahizan/short-course/tree/main/25upsi">
+ <img src="https://github.com/drshahizan/short-course/blob/main/image/UPSI_c1_2025.jpeg" alt="Image Alt Text"  height="200">
+</a>
+
+| 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
+|:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+|18 Mac| 🇲🇾 Universiti Teknologi Malaysia             | [Stage 3: Coaching and Hands-on Systematic Literature Review](https://github.com/drshahizan/short-course/tree/main/25slr) | 
+|11 Mac| 🇲🇾 Universiti Teknologi Malaysia             | [Stage 2: Techniques and Tools for Systematic Literature Review](https://github.com/drshahizan/short-course/tree/main/25slr) | 
+|10 Mac| 🇲🇾 Universiti Teknologi Malaysia             | [Stage 1: Introduction to Systematic Literature Review (SLR)](https://github.com/drshahizan/short-course/tree/main/25slr) | 
+|| 🇲🇾 Universiti Teknologi Malaysia             | [Systematic Literature Review (SLR) Workshop](https://github.com/drshahizan/short-course/tree/main/25slr) | 
+|24 Feb | 🇲🇾 Universiti Teknologi Malaysia             | [Perkongsian Strategik 1: Teknologi AI dalam Penulisan Pelaporan. Program Penetapan Kandungan Laporan Tahunan Dan Penyata Kewangan Utm 2024](https://github.com/drshahizan/short-course/tree/main/25kewangan) | 
+| 05 Feb | 🇲🇾 Universiti Teknologi Malaysia             | [Generatif AI: Memudahkan Aktiviti Harian](https://github.com/drshahizan/short-course/tree/main/25ctld) | 
+| 11 Jan | 🇲🇾 Universiti Pendidikan Sultan Idris              | [Mastering Chapter 1: Tools and Techniques for Crafting a Strong Thesis Introduction](https://github.com/drshahizan/short-course/tree/main/25upsi) | 
+
 ## 📚 Courses
 
 - 🆕 **[Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)**: This course will cover the fundamental steps and implementation on developing the initial ideas to formal academic writing accordingly. 
@@ -44,29 +66,6 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 - **[Extra-Curricular Experiential Learning](https://github.com/drshahizan/courses/blob/main/UKQT3001/readme.md)**: Provides opportunities for students to engage in learning experiences outside of the traditional academic curriculum.
 
 - **[Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)**: Explores the concepts of personal values and identity within the context of societal norms and expectations.
-
-## 🌍 Collaborative Workshops and Courses: Year 2025
-
-<a href="https://github.com/drshahizan/short-course/tree/main/25slr">
- <img src="https://github.com/drshahizan/short-course/blob/main/25slr/images/25slr.jpeg" alt="Image Alt Text"  height="200">
-</a> 
-<a href="https://github.com/drshahizan/short-course/tree/main/25ctld">
- <img src="https://github.com/drshahizan/short-course/blob/main/image/25%20Gen%20AI.jpeg" alt="Image Alt Text"  height="200">
-</a>
-<a href="https://github.com/drshahizan/short-course/tree/main/25upsi">
- <img src="https://github.com/drshahizan/short-course/blob/main/image/UPSI_c1_2025.jpeg" alt="Image Alt Text"  height="200">
-</a>
-
-| 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
-|:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-|18 Mac| 🇲🇾 Universiti Teknologi Malaysia             | [Stage 3: Coaching and Hands-on Systematic Literature Review](https://github.com/drshahizan/short-course/tree/main/25slr) | 
-|11 Mac| 🇲🇾 Universiti Teknologi Malaysia             | [Stage 2: Techniques and Tools for Systematic Literature Review](https://github.com/drshahizan/short-course/tree/main/25slr) | 
-|10 Mac| 🇲🇾 Universiti Teknologi Malaysia             | [Stage 1: Introduction to Systematic Literature Review (SLR)](https://github.com/drshahizan/short-course/tree/main/25slr) | 
-|| 🇲🇾 Universiti Teknologi Malaysia             | [Systematic Literature Review (SLR) Workshop](https://github.com/drshahizan/short-course/tree/main/25slr) | 
-|24 Feb | 🇲🇾 Universiti Teknologi Malaysia             | [Perkongsian Strategik 1: Teknologi AI dalam Penulisan Pelaporan. Program Penetapan Kandungan Laporan Tahunan Dan Penyata Kewangan Utm 2024](https://github.com/drshahizan/short-course/tree/main/25kewangan) | 
-| 05 Feb | 🇲🇾 Universiti Teknologi Malaysia             | [Generatif AI: Memudahkan Aktiviti Harian](https://github.com/drshahizan/short-course/tree/main/25ctld) | 
-| 11 Jan | 🇲🇾 Universiti Pendidikan Sultan Idris              | [Mastering Chapter 1: Tools and Techniques for Crafting a Strong Thesis Introduction](https://github.com/drshahizan/short-course/tree/main/25upsi) | 
-
 
 ## Data Science and Software
 
