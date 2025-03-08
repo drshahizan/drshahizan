@@ -33,10 +33,10 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-|18 Mac| 🇲🇾 Universiti Teknologi Malaysia             | [Stage 3: Coaching and Hands-on Systematic Literature Review](https://github.com/drshahizan/short-course/tree/main/25slr) | 
-|11 Mac| 🇲🇾 Universiti Teknologi Malaysia             | [Stage 2: Techniques and Tools for Systematic Literature Review](https://github.com/drshahizan/short-course/tree/main/25slr) | 
-|10 Mac| 🇲🇾 Universiti Teknologi Malaysia             | [Stage 1: Introduction to Systematic Literature Review (SLR)](https://github.com/drshahizan/short-course/tree/main/25slr) | 
-|| 🇲🇾 Universiti Teknologi Malaysia             | [Systematic Literature Review (SLR) Workshop](https://github.com/drshahizan/short-course/tree/main/25slr) | 
+|18 Mac| 🇲🇾 Universiti Teknologi Malaysia             | [Stage 3: Coaching and Hands-on Systematic Literature Review](https://github.com/drshahizan/short-course/) | 
+|11 Mac| 🇲🇾 Universiti Teknologi Malaysia             | [Stage 2: Techniques and Tools for Systematic Literature Review](https://github.com/drshahizan/short-course/) | 
+|10 Mac| 🇲🇾 Universiti Teknologi Malaysia             | [Stage 1: Introduction to Systematic Literature Review (SLR)](https://github.com/drshahizan/short-course/) | 
+|| 🇲🇾 Universiti Teknologi Malaysia             | [Systematic Literature Review (SLR) Workshop](https://github.com/drshahizan/short-course/) | 
 |24 Feb | 🇲🇾 Universiti Teknologi Malaysia             | [Perkongsian Strategik 1: Teknologi AI dalam Penulisan Pelaporan. Program Penetapan Kandungan Laporan Tahunan Dan Penyata Kewangan Utm 2024](https://github.com/drshahizan/short-course/tree/main/workshop/25kewangan) | 
 | 05 Feb | 🇲🇾 Universiti Teknologi Malaysia             | [Generatif AI: Memudahkan Aktiviti Harian](https://github.com/drshahizan/short-course/tree/main/workshop/25ctld) | 
 | 11 Jan | 🇲🇾 Universiti Pendidikan Sultan Idris              | [Mastering Chapter 1: Tools and Techniques for Crafting a Strong Thesis Introduction](https://github.com/drshahizan/short-course/tree/main/workshop/25upsi) | 
