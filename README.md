@@ -46,17 +46,17 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 ## 📚 Courses
 
+- 🆕 **[High Performance Data Processing](https://github.com/drshahizan/HPDP)**: Covers techniques and tools for processing data at high speeds for performance-critical applications.
+
 - 🆕 **[Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)**: This course will cover the fundamental steps and implementation on developing the initial ideas to formal academic writing accordingly. 
   
-- 🆕 **[Software Project Management](https://github.com/drshahizan/project-management)**: This course is designed to provide students with in depth knowledge on software project planning, cost estimation and scheduling, project management tools, factors influencing productivity and success, productivity metrics, analysis of options and risks, software process improvement, software contracts and intelectual property and approaches to maintenance and long term software development.
+- **[Software Project Management](https://github.com/drshahizan/project-management)**: This course is designed to provide students with in depth knowledge on software project planning, cost estimation and scheduling, project management tools, factors influencing productivity and success, productivity metrics, analysis of options and risks, software process improvement, software contracts and intelectual property and approaches to maintenance and long term software development.
 
-- 🆕 **[Advanced Computer System & Architecture](https://github.com/drshahizan/computer-system)**: This course focuses on advanced topics in the design and analysis of computer architectures. Topics covered include instruction set design, pipelining, instruction- level parallelism, high-speed memory systems, storage systems, interconnection networks, and multiprocessor architectures.
+- **[Advanced Computer System & Architecture](https://github.com/drshahizan/computer-system)**: This course focuses on advanced topics in the design and analysis of computer architectures. Topics covered include instruction set design, pipelining, instruction- level parallelism, high-speed memory systems, storage systems, interconnection networks, and multiprocessor architectures.
 
-- 🆕 **[Special Topic in Software Engineering](https://github.com/drshahizan/special-topic-software-engineering)**: This course presents a top-down view of cloud computing, from applications and administration to programming and infrastructure. Its main focus is on parallel programming techniques for cloud computing and large scale distributed systems which form the cloud infrastructure.
+- **[Special Topic in Software Engineering](https://github.com/drshahizan/special-topic-software-engineering)**: This course presents a top-down view of cloud computing, from applications and administration to programming and infrastructure. Its main focus is on parallel programming techniques for cloud computing and large scale distributed systems which form the cloud infrastructure.
 
 - **[Big Data Management](https://github.com/drshahizan/BDM)**: Focuses on the principles and practices of managing large and complex datasets.
-
-- **[High Performance Data Processing](https://github.com/drshahizan/HPDP)**: Covers techniques and tools for processing data at high speeds for performance-critical applications.
 
 - **[Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)**: An advanced course discussing specialized topics within the realm of data engineering.
 
