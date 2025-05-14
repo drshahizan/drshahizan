@@ -13,12 +13,11 @@ Educating future leaders as a Lecturer at [Universiti Teknologi Malaysia (UTM)](
 
 Explore my projects below, and let's collaborate on something impactful!  😊
 
-## 🚀 Agile Collaboration Hacks ⚡
- 
-<a href="https://github.com/drshahizan/short-course/">
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25ICTMBE/images/25uthm.png" alt="Dr Shahizan AI"  height="400">
-</a> 
+# 🚀 Current event⚡
 
+<a href="https://github.com/drshahizan/short-course/tree/main/workshop/25ctld5">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25ctld5/images/2505chatgpt.png" alt="Dr Shahizan AI"  height="400">
+</a> 
 
 ## 🌍 Collaborative Workshops and Courses: Year 2025
 
