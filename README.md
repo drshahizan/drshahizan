@@ -49,6 +49,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+|15 May | 🇲🇾 Universiti Teknologi Malaysia | [ChatGPT dan Aplikasi AI untuk Produktiviti Kerja](https://github.com/drshahizan/short-course/tree/main/workshop/25ctld5) | 
 |6 May | 🇲🇾 Universiti Tun Hussein Onn Malaysia | [ICTMBE 2025 - Workshop: AI Tools in Research](https://github.com/drshahizan/short-course/) | 
 |22 Apr| 🇲🇾 Universiti Teknologi Malaysia             | [GitHub for Researchers: Managing Your Academic Projects Efficiently](https://github.com/drshahizan/) | 
 |16-17 Apr| 🇮🇩 Universitas Dinamika Bangsa             | [Systematic Literature Review (SLR) Workshop](https://github.com/drshahizan/short-course/) | 
