@@ -58,6 +58,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+|27 Aug | 🇲🇾 Universiti Teknologi Malaysia | [WRITEWISE+: Enhancing Articles for ERA/SCOPUS with Generative AI](https://github.com/drshahizan/short-course/tree/main/workshop/25writewise)  | 
 |10 Jul | 🇲🇾 Universiti Teknologi Malaysia | [Artificial Intelligence in Education: A Pathway to Improved Teaching Excellence](https://github.com/drshahizan/short-course/tree/main/workshop/25Utmspace)  | 
 |4 Jun | 🇲🇾 Universiti Teknologi Malaysia | [English for Global AI: ChatGPT](https://github.com/drshahizan/short-course/tree/main/workshop/25Korea)  | 
 |27 May | 🇲🇾 Universiti Teknologi Malaysia | [IIRG Colloquium: Series 3](https://github.com/drshahizan/short-course/tree/main/workshop/25IIRGS3) | 
