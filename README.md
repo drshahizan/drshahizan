@@ -60,8 +60,11 @@ Explore my projects below, and let's collaborate on something impactful!  😊
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/image/UPSI_c1_2025.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
+
+
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| 02–03 Sept | 🇲🇾 Universiti Teknologi Malaysia | [Kursus Pengajaran & Pembelajaran Menggunakan Teknologi Kecerdasan Buatan (AI)](https://github.com/drshahizan/short-course/tree/main/workshop/25pengajaran) |
 |27 Aug | 🇲🇾 Universiti Teknologi Malaysia | [WRITEWISE+: Enhancing Articles for ERA/SCOPUS with Generative AI](https://github.com/drshahizan/short-course/tree/main/workshop/25writewise)  | 
 |10 Jul | 🇲🇾 Universiti Teknologi Malaysia | [Artificial Intelligence in Education: A Pathway to Improved Teaching Excellence](https://github.com/drshahizan/short-course/tree/main/workshop/25Utmspace)  | 
 |4 Jun | 🇲🇾 Universiti Teknologi Malaysia | [English for Global AI: ChatGPT](https://github.com/drshahizan/short-course/tree/main/workshop/25Korea)  | 
