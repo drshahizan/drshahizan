@@ -80,6 +80,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| 29 Sept 2025 | 🇲🇾 Universiti Teknologi Malaysia | PGSS FM: AI Tools for Research |
 | 17-18 Sept | 🇲🇾 Universiti Teknologi Malaysia | [Training on Artificial Intelligence for UTMSpace Support Staff - UTMKL](https://github.com/drshahizan/short-course/tree/main/workshop/25ppspace) |
 | 09-10 Sept | 🇲🇾 Universiti Teknologi Malaysia | [Training on Artificial Intelligence for UTMSpace Support Staff - UTMJB](https://github.com/drshahizan/short-course/tree/main/workshop/25ppspace) |
 | 08 Sept | 🇲🇾 Universiti Teknologi Malaysia | [From Idea to Impact: Writing Winning Grant Proposals with Generative AI](https://github.com/drshahizan/short-course/tree/main/workshop/25idea) |
