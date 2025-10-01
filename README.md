@@ -84,6 +84,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| 1-3 Oct | 🇲🇾 Jabatan Kerja Raya Malaysia             | [Inovasi Teknologi Al & IoT Dalam Kejuruteraan](https://github.com/drshahizan/short-course/blob/main/workshop/25jkr) | 
 | 1 Oct | 🇮🇩 Bina Nusantara University             | [The Integration of AI Tools in Postgraduate Computer Science Studies](https://github.com/drshahizan/short-course/blob/main/workshop/25binus) | 
 | 29 Sept | 🇲🇾 Universiti Teknologi Malaysia | [PGSS FM: AI Tools for Research](https://github.com/drshahizan/short-course/blob/main/workshop/25pgss_fm) |
 | 17-18 Sept | 🇲🇾 Universiti Teknologi Malaysia | [Training on Artificial Intelligence for UTMSpace Support Staff - UTMKL](https://github.com/drshahizan/short-course/tree/main/workshop/25ppspace) |
