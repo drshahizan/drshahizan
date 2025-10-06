@@ -107,10 +107,11 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 | 11 Jan | 🇲🇾 Universiti Pendidikan Sultan Idris              | [Mastering Chapter 1: Tools and Techniques for Crafting a Strong Thesis Introduction](https://github.com/drshahizan/short-course/) | 
 
 ## 📚 Courses
+- 🆕 **[Database](https://github.com/drshahizan/database)**:This course introduces students to the fundamentals of database systems and their applications in daily and professional contexts. It focuses on key concepts and techniques in database development, particularly in conceptual and logical design. Topics include database environments, design principles, entity-relationship diagrams, normalization, and Structured Query Language (SQL). Students will learn to use a Database Management System (DBMS) to manage and manipulate data efficiently.
+  
+- **[High Performance Data Processing](https://github.com/drshahizan/HPDP)**: Covers techniques and tools for processing data at high speeds for performance-critical applications.
 
-- 🆕 **[High Performance Data Processing](https://github.com/drshahizan/HPDP)**: Covers techniques and tools for processing data at high speeds for performance-critical applications.
-
-- 🆕 **[Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)**: This course will cover the fundamental steps and implementation on developing the initial ideas to formal academic writing accordingly. 
+- **[Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)**: This course will cover the fundamental steps and implementation on developing the initial ideas to formal academic writing accordingly. 
   
 - **[Software Project Management](https://github.com/drshahizan/project-management)**: This course is designed to provide students with in depth knowledge on software project planning, cost estimation and scheduling, project management tools, factors influencing productivity and success, productivity metrics, analysis of options and risks, software process improvement, software contracts and intelectual property and approaches to maintenance and long term software development.
 
