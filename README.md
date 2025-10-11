@@ -113,6 +113,8 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 ## 📚 Courses
 - 🆕 **[Database](https://github.com/drshahizan/database)**:This course introduces students to the fundamentals of database systems and their applications in daily and professional contexts. It focuses on key concepts and techniques in database development, particularly in conceptual and logical design. Topics include database environments, design principles, entity-relationship diagrams, normalization, and Structured Query Language (SQL). Students will learn to use a Database Management System (DBMS) to manage and manipulate data efficiently.
+
+- - 🆕 **[Mobile Application Programming](https://github.com/drshahizan/mobile_apps)**: This course provides students with a solid foundation in developing applications for mobile devices. It covers essential workflows, tools, and frameworks for creating apps for current and emerging mobile technologies. Students will learn to design user interfaces, integrate mobile applications with back-end systems, and understand the underlying software architecture. Using a selected modern technology, the course emphasizes hands-on development and collaboration. By the end, students will be able to work effectively in teams to design and build functional, data-driven mobile applications.
   
 - **[High Performance Data Processing](https://github.com/drshahizan/HPDP)**: Covers techniques and tools for processing data at high speeds for performance-critical applications.
 
