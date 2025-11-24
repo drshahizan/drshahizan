@@ -96,7 +96,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| 25 Nov | 🇲🇾 Green Research Group, UTM | [Bengkel PenulisanJurnal Berbantu AI](https://github.com/drshahizan/short-course/blob/main/workshop/25greenAI) | 
+| 25 Nov | 🇲🇾 Green Research Group, UTM | [Bengkel Penulisan Jurnal Berbantukan AI](https://github.com/drshahizan/short-course/blob/main/workshop/25greenAI) | 
 | 5 Nov | 🇲🇾 Department of Statistics Malaysia | [Unifying Data With Generative Ai Tools: A Practical Workshop](https://github.com/drshahizan/short-course/blob/main/workshop/25asean) | 
 | 27 Oct | 🇮🇩 Universitas Airlangga | [Natural Language Processing: Machine Translation and Chatbot](https://github.com/drshahizan/short-course/blob/main/workshop/25unair/images/MSOchatbot.jpeg) | 
 | 14 Oct | 🇲🇾 Universiti Teknologi Malaysia | [Al in Workspace](https://github.com/drshahizan/short-course/blob/main/workshop/25pendaftar) | 
