@@ -22,7 +22,9 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 -->
 
 ## 🌍 Workshops and Courses: Year 2025
-
+<a href="https://github.com/drshahizan/short-course/tree/main/workshop/25IIRGS5">
+  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25IIRGS5/images/IIRG_colloqium5.jpeg" alt="Dr Shahizan AI"  height="200">
+</a>
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/25asean">
   <img src="https://raw.githubusercontent.com/drshahizan/short-course/main/workshop/25asean/images/25Asean.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
