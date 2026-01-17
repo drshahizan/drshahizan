@@ -25,7 +25,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari/images/26_ai_bendahari.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/25asean">
-  <img src="https://raw.githubusercontent.com/drshahizan/short-course/main/workshop/25asean/images/25Asean.jpeg" alt="Dr Shahizan AI"  height="200">
+  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26pustakawan/images/26ai_library.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
 
 
