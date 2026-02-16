@@ -35,7 +35,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | 12 Dis | 🇲🇾 Parlimen Sri Gading, MOSTI & UTM  | [Kursus Kecerdasan Buatan untuk Pengajaran dan Pembelajaran](https://github.com/drshahizan/short-course/blob/main/workshop/26srigading) | 
 | 25 Nov | 🇲🇾 Jab Bendahari, UTM | [AI in Workplace](https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari) | 
-| 5 Nov | 🇲🇾 Department of Statistics Malaysia | [Unifying Data With Generative Ai Tools: A Practical Workshop](https://github.com/drshahizan/short-course/blob/main/workshop/26pustakawan) | 
+| 5 Nov | 🇲🇾 Jab Perpustakaan, UTM | [Future-Ready Librarians: AI Tools for Next-Gen Libraries](https://github.com/drshahizan/short-course/blob/main/workshop/26pustakawan) | 
 
 
 ## 🌍 Workshops and Courses: Year 2025
