@@ -33,7 +33,8 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| 12 Dis | 🇲🇾 Universiti Teknologi Malaysia  | [IIRG Colloquium Session 5](https://github.com/drshahizan/short-course/blob/main/workshop/26srigading) | 
+| 12 Dis | 🇲🇾 Universiti Teknologi Malaysia  | [Kursus Kecerdasan Buatan untuk Pengajaran dan Pembelajaran
+](https://github.com/drshahizan/short-course/blob/main/workshop/26srigading) | 
 | 25 Nov | 🇲🇾 Green Research Group, UTM | [Bengkel Penulisan Jurnal Berbantukan AI](https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari) | 
 | 5 Nov | 🇲🇾 Department of Statistics Malaysia | [Unifying Data With Generative Ai Tools: A Practical Workshop](https://github.com/drshahizan/short-course/blob/main/workshop/26pustakawan) | 
 
