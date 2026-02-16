@@ -31,6 +31,12 @@ Explore my projects below, and let's collaborate on something impactful!  😊
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26pustakawan/images/26ai_library.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
 
+| 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
+|:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| 12 Dis | 🇲🇾 Universiti Teknologi Malaysia  | [IIRG Colloquium Session 5](https://github.com/drshahizan/short-course/blob/main/workshop/26srigading) | 
+| 25 Nov | 🇲🇾 Green Research Group, UTM | [Bengkel Penulisan Jurnal Berbantukan AI](https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari) | 
+| 5 Nov | 🇲🇾 Department of Statistics Malaysia | [Unifying Data With Generative Ai Tools: A Practical Workshop](https://github.com/drshahizan/short-course/blob/main/workshop/26pustakawan) | 
+
 
 ## 🌍 Workshops and Courses: Year 2025
 <a href="https://github.com/drshahizan/short-course/tree/main/workshop/25IIRGS5">
