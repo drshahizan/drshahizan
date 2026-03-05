@@ -33,9 +33,9 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| 3 Feb | 🇲🇾 Parlimen Sri Gading, MOSTI & UTM  | [Kursus Kecerdasan Buatan untuk Pengajaran dan Pembelajaran](https://github.com/drshahizan/short-course/blob/main/workshop/26srigading) | 
-| 25 Jan | 🇲🇾 Jab Bendahari, UTM | [AI in Workplace](https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari) | 
-| 5 Jan | 🇲🇾 Jab Perpustakaan, UTM | [Future-Ready Librarians: AI Tools for Next-Gen Libraries](https://github.com/drshahizan/short-course/blob/main/workshop/26pustakawan) | 
+| 3 & Feb | 🇲🇾 Parlimen Sri Gading, MOSTI & UTM  | [Kursus Kecerdasan Buatan untuk Pengajaran dan Pembelajaran](https://github.com/drshahizan/short-course/blob/main/workshop/26srigading) | 
+| 22 Jan | 🇲🇾 Jab Bendahari, UTM | [AI in Workplace](https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari) | 
+| 20-21 Jan | 🇲🇾 Jab Perpustakaan, UTM | [Future-Ready Librarians: AI Tools for Next-Gen Libraries](https://github.com/drshahizan/short-course/blob/main/workshop/26pustakawan) | 
 
 
 ## 🌍 Workshops and Courses: Year 2025
