@@ -1,4 +1,4 @@
-<img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/55ba0639-d604-4f97-b311-863038af11d7" /><img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/105e54b5-32f0-4958-8aed-5d57c84bb995" />![GitHub Follow](https://img.shields.io/github/followers/drshahizan.svg?style=social&label=Follow)
+![GitHub Follow](https://img.shields.io/github/followers/drshahizan.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/drshahizan?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
