@@ -13,14 +13,16 @@ Educating future leaders as a Lecturer at [Universiti Teknologi Malaysia (UTM)](
 
 Explore my projects below, and let's collaborate on something impactful!  😊
 
-
 # 🚀 Current event⚡
 
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26srigading/">
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26srigading/images/srigading.jpeg" alt="Dr Shahizan AI"  height="400">
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema/images/AI_hema.jpeg" alt="Dr Shahizan AI"  height="400">
 </a> 
 
 ## 🌍 Workshops and Courses: Year 2026
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema/images/AI_hema.jpeg" alt="Dr Shahizan AI"  height="200">
+</a> 
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26srigading/">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26srigading/images/srigading.jpeg" alt="Dr Shahizan AI"  height="200">
 </a> 
