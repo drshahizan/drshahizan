@@ -15,9 +15,8 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 # 🚀 Current event⚡
 
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema">
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema/images/AI_hema.jpeg" alt="Dr Shahizan AI"  height="400">
-</a> 
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26libresearch">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26libresearch/images/lib_research.jpeg" alt="Dr Shahizan AI"  height="400">
 
 ## 🌍 Workshops and Courses: Year 2026
 
