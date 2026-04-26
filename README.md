@@ -15,9 +15,6 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 # 🚀 Current event⚡
 
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Gemini">
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Gemini/images/ai%20wartawan.jpeg" alt="Dr Shahizan AI"  height="400">
-</a> 
 <a href="https://github.com/drshahizan/HPDP">
  <img src="https://github.com/drshahizan/HPDP/blob/main/images/hpdp.jpeg" alt="Dr Shahizan AI"  height="400">
 
