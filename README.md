@@ -15,6 +15,9 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 # 🚀 Current event⚡
 
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26pgss">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26pgss/images/PGSS%20ai.jpeg" alt="Dr Shahizan AI"  height="400">
+
 <a href="https://github.com/drshahizan/HPDP">
  <img src="https://github.com/drshahizan/HPDP/blob/main/images/hpdp.jpeg" alt="Dr Shahizan AI"  height="400">
 
