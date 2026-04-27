@@ -44,6 +44,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| 22 Apr | 🇲🇾 PGSS FK, UTM | [Kursus Pemerkasaan Media dengan Kecerdasan Buatan (AI): Aplikasi Gemini & NotebookLM dalam Kewartawanan Digital](https://github.com/drshahizan/short-course/blob/main/workshop/26pgss) | 
 | 22 Apr | 🇲🇾 BDC, UTM | [Kursus Pemerkasaan Media dengan Kecerdasan Buatan (AI): Aplikasi Gemini & NotebookLM dalam Kewartawanan Digital](https://github.com/drshahizan/short-course/blob/main/workshop/26Gemini) | 
 | 11 Mac | 🇲🇾 Jab Perpustakaan, UTM | [Empowering Librarians With AI for Academic Writing](https://github.com/drshahizan/short-course/blob/main/workshop/26libresearch) | 
 | 10 Mac | 🇲🇾 Jab TNC HEPA  | [Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja](https://github.com/drshahizan/short-course/blob/main/workshop/26Hema) | 
