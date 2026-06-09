@@ -53,6 +53,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | 25 Jun | 🇨🇳 Xi'an Eurasia University| [Leveraging Big Data Analytics and Digital Twins for Intelligent and Sustainable Smart Cities](https://m.ais.cn/attendees/index/ZQ2I7N)|
+| 15 Jun |🇲🇾 UTM |[Digitex 2026](https://fcdigitex.com/)|
 | 13 Jun |🇲🇾 MOSTI & UTM |[Kursus Kecerdasan Buatan (AI) untuk Guru-Guru Sekolah di Pasir Gudang, Johor](https://github.com/drshahizan/short-course/blob/main/workshop/26STI)|
 | 10 Jun |🇲🇾 FTSM, UKM |[GitHub Workshop for Beginners](https://github.com/drshahizan/learn-github/blob/main/README.md)|
 | 11 May | 🇮🇩 Sekolah Tinggi Teknologi Terpadu Nurul Fikri | [The Utilization of AI Technology in Supporting Adaptive Learning Strategies for University Students](https://github.com/drshahizan/short-course/blob/main/workshop/26STTNF/readme.md) | 
