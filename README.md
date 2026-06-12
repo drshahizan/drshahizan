@@ -19,7 +19,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
  <img src="https://github.com/drshahizan/HPDP/blob/main/images/hpdp.jpeg" alt="Dr Shahizan AI"  height="400">
 
 <a href="https://github.com/drshahizan/learn-github">
- <img src="https://github.com/drshahizan/learn-github/blob/main/images/github%20ftsm.jpeg" alt="Dr Shahizan AI"  height="400">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26STI/images/26STI.jpeg" alt="Dr Shahizan AI"  height="400">
  
 
 ## 🌍 Workshops and Courses: Year 2026
