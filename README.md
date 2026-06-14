@@ -25,7 +25,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 ## 🌍 Workshops and Courses: Year 2026
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26STI/readme.md">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26STI/images/26STI.jpeg" alt="Dr Shahizan AI"  height="200">
-<a href="https://github.com/drshahizan/learn-github/">
+<a href="https://github.com/drshahizan/learn-github/blob/main/README0.md">
  <img src="https://github.com/drshahizan/learn-github/blob/main/images/github%20ftsm.jpeg" alt="Dr Shahizan AI"  height="200">
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26STTNF/readme.md">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26STTNF/images/26STTNF.jpeg" alt="Dr Shahizan AI"  height="200">
