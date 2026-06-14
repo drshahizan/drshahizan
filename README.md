@@ -254,9 +254,6 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 - **[Research Material](https://github.com/drshahizan/research-material)**: Contains a collection of materials and resources that can support various aspects of academic research.
 
-![GitHub Follow](https://img.shields.io/github/followers/drshahizan.svg?style=social&label=Follow)
-![GitHub Star](https://img.shields.io/github/stars/drshahizan?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
   
 <details>
@@ -266,8 +263,11 @@ Explore my projects below, and let's collaborate on something impactful!  😊
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drshahizan&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
-  
-  ![Follower Badge](https://img.shields.io/github/followers/drshahizan)
+
+  ![GitHub Follow](https://img.shields.io/github/followers/drshahizan.svg?style=social&label=Follow)
+![GitHub Star](https://img.shields.io/github/stars/drshahizan?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+
   ![](https://hit.yhype.me/github/profile?user_id=81284918)
  
 </details>
