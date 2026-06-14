@@ -26,7 +26,7 @@
 </a>
 
 <a href="mailto:shahizan@utm.my">
-    <img alt="Email" src="https://img.shields.io/badge/-shahizan@utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white">
+    <img alt="Email" src="https://img.shields.io/badge/-shahizan-c14438?style=flat-square&logo=Gmail&logoColor=white">
 </a>
 
 </p>
