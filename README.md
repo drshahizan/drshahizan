@@ -12,6 +12,9 @@
   <a href="https://orcid.org/0000-0003-4261-1873" target="_blank">
       <img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white">
   </a>
+<a href="https://scholar.google.com/citations?user=QzgVq24AAAAJ" target="_blank">
+  <img alt="Google Scholar" src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white">
+</a>
 </p>
 
  # Dr Shahizan | Lecturer, Academic Speaker & Tech Educator  <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
