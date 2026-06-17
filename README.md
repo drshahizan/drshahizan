@@ -10,10 +10,6 @@
 </a>
 
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57211608139" target="_blank">
-    <img alt="Scopus" src="https://img.shields.io/badge/SCOPUS-0071B9?style=flat-square&logo=elsevier&logoColor=white">
-</a>
-
-<a href="https://www.scopus.com/authid/detail.uri?authorId=57211608139" target="_blank">
     <img alt="Scopus" src="https://img.shields.io/badge/SCOPUS-FF8C00?style=flat-square&logo=elsevier&logoColor=white">
 </a>
 
