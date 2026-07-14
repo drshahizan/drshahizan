@@ -53,11 +53,14 @@ Explore my projects below, and let's collaborate on something impactful!  😊
  
 
 ## 🌍 Workshops and Courses: Year 2026
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Korea/">
-  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Korea/images/chatgpt26.jpeg" alt="Dr Shahizan AI"  height="200">
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26grg">
+  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26grg/images/26grg.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema2/">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema2/images/26Hema.jpeg" alt="Dr Shahizan AI"  height="200">
+</a>
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Korea/">
+  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Korea/images/chatgpt26.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari1">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari1/images/revolusiAI.jpeg" alt="Dr Shahizan AI"  height="200">
