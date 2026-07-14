@@ -48,8 +48,8 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 <a href="https://github.com/drshahizan/HPDP">
  <img src="https://github.com/drshahizan/HPDP/blob/main/images/hpdp.jpeg" alt="Dr Shahizan AI"  height="400">
 
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari1">
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari1/images/revolusiAI.jpeg" alt="Dr Shahizan AI"  height="400">
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Korea/">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Korea/images/chatgpt26.jpeg" alt="Dr Shahizan AI"  height="400">
  
 
 ## 🌍 Workshops and Courses: Year 2026
