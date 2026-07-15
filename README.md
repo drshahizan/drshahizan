@@ -94,6 +94,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| 03 Aug | 🇲🇾 GRG, UTM | [Writing and Publication Workshop](https://github.com/drshahizan/short-course/blob/main/workshop/26grg)|
 | 30 Jul | 🇲🇾 KV Perdagangan, JB | [AI in Video Resume]()|
 | 22 Jul | 🇲🇾 Jab TNC HEPA  | [Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja](https://github.com/drshahizan/short-course/blob/main/workshop/26Hema2) | 
 | 20 Jul | 🇲🇾 UTMSPACE | [Chat GPT for AI Hackathon](https://github.com/drshahizan/short-course/tree/main/workshop/26Korea)|
