@@ -45,11 +45,9 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 # 🚀 Current event⚡
 
-<a href="https://github.com/drshahizan/HPDP">
- <img src="https://github.com/drshahizan/HPDP/blob/main/images/hpdp.jpeg" alt="Dr Shahizan AI"  height="400">
-
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Korea/">
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Korea/images/chatgpt26.jpeg" alt="Dr Shahizan AI"  height="400">
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema2/">
+  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema2/images/26Hema.jpeg" alt="Dr Shahizan AI"  height="400">
+</a>
  
 
 ## 🌍 Workshops and Courses: Year 2026
