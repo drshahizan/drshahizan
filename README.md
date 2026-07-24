@@ -45,8 +45,8 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 # 🚀 Current event⚡
 
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema2/">
-  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema2/images/26Hema.jpeg" alt="Dr Shahizan AI"  height="400">
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26KVP">
+  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26KVP/images/KVP.jpeg" alt="Dr Shahizan AI"  height="400">
 </a>
  
 
@@ -95,6 +95,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| 06 Aug | 🇲🇾 Persatuan Setiausaha, UTM | [Setiausaha Pintar dan Produktif dengan Teknologi Kecerdasan Buatan]()|
 | 03 Aug | 🇲🇾 GRG, UTM | [Writing and Publication Workshop](https://github.com/drshahizan/short-course/blob/main/workshop/26grg)|
 | 30 Jul | 🇲🇾 KV Perdagangan, JB | [AI in Video Resume](https://github.com/drshahizan/short-course/blob/main/workshop/26KVP)|
 | 22 Jul | 🇲🇾 Jab TNC HEPA  | [Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja](https://github.com/drshahizan/short-course/blob/main/workshop/26Hema2) | 
