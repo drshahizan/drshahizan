@@ -95,6 +95,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| 13 Aug | 🇮🇩 Bina Nusantara University             | [The Integration of AI Tools in Postgraduate Computer Science Studies]() | 
 | 06 Aug | 🇲🇾 Persatuan Setiausaha, UTM | [Setiausaha Pintar dan Produktif dengan Teknologi Kecerdasan Buatan]()|
 | 03 Aug | 🇲🇾 GRG, UTM | [Writing and Publication Workshop](https://github.com/drshahizan/short-course/blob/main/workshop/26grg)|
 | 30 Jul | 🇲🇾 KV Perdagangan, JB | [AI in Video Resume](https://github.com/drshahizan/short-course/blob/main/workshop/26KVP)|
