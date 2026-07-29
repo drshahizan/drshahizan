@@ -45,7 +45,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 # 🚀 Current event⚡
 
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26KVP">
+<a href="https://drshahizan.github.io/video">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26KVP/images/KVP.jpeg" alt="Dr Shahizan AI"  height="400">
 </a>
  
@@ -54,7 +54,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26grg">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26grg/images/26grg.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26KVP">
+<a href="https://drshahizan.github.io/video">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26KVP/images/KVP.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema2/">
