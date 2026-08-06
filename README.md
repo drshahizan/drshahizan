@@ -99,6 +99,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | 26 Aug | 🇲🇾 FK, UTM | [Kursus NotebookLM & Google Gemini]()|
+| 24 Aug | 🇲🇾 BDC, UTM | [AI for Research]()|
 | 17 Aug | 🇲🇾 GRG, UTM | [Writing and Publication Workshop](https://github.com/drshahizan/short-course/blob/main/workshop/26grg)|
 | 13 Aug | 🇮🇩 Bina Nusantara University             | [The Integration of AI Tools in Postgraduate Computer Science Studies]() | 
 | 06 Aug | 🇲🇾 Persatuan Setiausaha, UTM | [Setiausaha Pintar dan Produktif dengan Teknologi Kecerdasan Buatan]()|
