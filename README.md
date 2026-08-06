@@ -98,12 +98,12 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| 26 Aug | 🇲🇾 FK, UTM | [Kursus NotebookLM & Google Gemini]()|
+| 26 Aug | 🇲🇾 FK, UTM | [Pemerkasaan Tugasan Harian Menggunakan Kecerdasan Buatan Generatif]()|
 | 24 Aug | 🇲🇾 BDC, UTM | [AI for Research]()|
 | 17 Aug | 🇲🇾 GRG, UTM | [Writing and Publication Workshop](https://github.com/drshahizan/short-course/blob/main/workshop/26grg)|
 | 10-11 Aug | 🇲🇾 Jab Akauntan Negara Malaysia | [AI Prompt Engineering]() | 
 | 13 Aug | 🇮🇩 Bina Nusantara University             | [The Integration of AI Tools in Postgraduate Computer Science Studies]() | 
-| 06 Aug | 🇲🇾 Persatuan Setiausaha, UTM | [Setiausaha Pintar dan Produktif dengan Teknologi Kecerdasan Buatan]()|
+| 06 Aug | 🇲🇾 Persatuan Setiausaha, UTM | [Setiausaha Pintar dan Produktif dengan Teknologi Kecerdasan Buatan](https://drshahizan.github.io/setiausaha/)|
 | 30 Jul | 🇲🇾 KV Perdagangan, JB | [AI in Video Resume](https://github.com/drshahizan/short-course/blob/main/workshop/26KVP)|
 | 22 Jul | 🇲🇾 Jab TNC HEPA  | [Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja](https://github.com/drshahizan/short-course/blob/main/workshop/26Hema2) | 
 | 20 Jul | 🇲🇾 UTMSPACE | [Chat GPT for AI Hackathon](https://github.com/drshahizan/short-course/tree/main/workshop/26Korea)|
