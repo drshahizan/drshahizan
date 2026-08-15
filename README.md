@@ -45,7 +45,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 # 🚀 Current event⚡
 
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26grg">
+<a href="https://drshahizan.github.io/grg">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26grg/images/26grg.jpeg" alt="Dr Shahizan AI"  height="400">
 </a>
  
@@ -103,7 +103,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | 26 Aug | 🇲🇾 FK, UTM | [Pemerkasaan Tugasan Harian Menggunakan Kecerdasan Buatan Generatif]()|
 | 24 Aug | 🇲🇾 BDC, UTM | [AI for Research]()|
-| 17 Aug | 🇲🇾 GRG, UTM | [Writing and Publication Workshop](https://github.com/drshahizan/short-course/blob/main/workshop/26grg)|
+| 17 Aug | 🇲🇾 GRG, UTM | [Writing and Publication Workshop](https://drshahizan.github.io/grg)|
 | 10-11 Aug | 🇲🇾 Jab Akauntan Negara Malaysia | [AI Prompt Engineering](https://drshahizan.github.io/JANM/) | 
 | 13 Aug | 🇮🇩 Bina Nusantara University             | [AI Tools for Smarter Academic Research](https://drshahizan.github.io/binus/) | 
 | 06 Aug | 🇲🇾 Persatuan Setiausaha, UTM | [Setiausaha Pintar dan Produktif dengan Teknologi Kecerdasan Buatan](https://drshahizan.github.io/setiausaha/)|
