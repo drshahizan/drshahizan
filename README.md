@@ -45,8 +45,8 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 # 🚀 Current event⚡
 
-<a href="https://drshahizan.github.io/grg">
-  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26grg/images/26grg.jpeg" alt="Dr Shahizan AI"  height="400">
+<a href="https://drshahizan.github.io/fk">
+  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26FK/images/26fk.jpeg" alt="Dr Shahizan AI"  height="400">
 </a>
  
 
