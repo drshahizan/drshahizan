@@ -45,15 +45,18 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 # 🚀 Current event⚡
 
-<a href="https://drshahizan.github.io/fk">
-  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26FK/images/26fk.jpeg" alt="Dr Shahizan AI"  height="400">
+<a href="https://drshahizan.github.io/bdc">
+  <img src="https://drshahizan.github.io/bdc/assets/images/ai-for-research-poster.png" alt="Dr Shahizan AI"  height="400">
 </a>
- 
+
 
 ## 🌍 Workshops and Courses: Year 2026
 
 <a href="https://drshahizan.github.io/fk">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26FK/images/26fk.jpeg" alt="Dr Shahizan AI"  height="200">
+</a>
+<a href="https://drshahizan.github.io/bdc">
+  <img src="https://drshahizan.github.io/bdc/assets/images/ai-for-research-poster.png" alt="Dr Shahizan AI"  height="200">
 </a>
 <a href="https://drshahizan.github.io/grg">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26grg/images/26grg.jpeg" alt="Dr Shahizan AI"  height="200">
