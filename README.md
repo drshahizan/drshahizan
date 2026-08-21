@@ -108,8 +108,8 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| 26 Aug | 🇲🇾 FK, UTM | [Pemerkasaan Tugasan Harian Menggunakan Kecerdasan Buatan Generatif]()|
-| 24 Aug | 🇲🇾 BDC, UTM | [AI for Research]()|
+| 26 Aug | 🇲🇾 FK, UTM | [Pemerkasaan Tugasan Harian Menggunakan Kecerdasan Buatan Generatif](https://drshahizan.github.io/fk)|
+| 24 Aug | 🇲🇾 BDC, UTM | [AI for Research](https://drshahizan.github.io/bdc)|
 | 17 Aug | 🇲🇾 GRG, UTM | [Writing and Publication Workshop](https://drshahizan.github.io/grg)|
 | 10-11 Aug | 🇲🇾 Jab Akauntan Negara Malaysia | [AI Prompt Engineering](https://drshahizan.github.io/JANM/) | 
 | 13 Aug | 🇮🇩 Bina Nusantara University             | [AI Tools for Smarter Academic Research](https://drshahizan.github.io/binus/) | 
