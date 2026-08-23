@@ -109,6 +109,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | 9 Sept | 🇲🇾 IIRG & PGBM Benut | [Kursus Kecerdasan Buatan untuk Pentadbir Sekolah]()|
+| 7 Sept | 🇲🇾 FKM, UTM | [From Manual to Smart: Revolusi Kerja dengan AI Tools]()|
 | 26 Aug | 🇲🇾 FK, UTM | [Pemerkasaan Tugasan Harian Menggunakan Kecerdasan Buatan Generatif](https://drshahizan.github.io/fk)|
 | 24 Aug | 🇲🇾 BDC, UTM | [AI for Research](https://drshahizan.github.io/bdc)|
 | 17 Aug | 🇲🇾 GRG, UTM | [Writing and Publication Workshop](https://drshahizan.github.io/grg)|
