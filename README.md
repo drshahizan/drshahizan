@@ -108,7 +108,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| 02 Nov | 🇲🇾 Pej TNCAA, UTM | [Amanah Data dalam Era Generative AI]()|
+| 03 Nov | 🇲🇾 Pej TNCAA, UTM | [Amanah Data dalam Era Generative AI]()|
 | 21 Sept | 🇲🇾 CTLD, UTM | [Kursus Alat Digital dan Analisis Penyelidikan]()|
 | 9 Sept | 🇲🇾 IIRG & PGBM Benut | [Kursus Kecerdasan Buatan untuk Pentadbir Sekolah]()|
 | 7 Sept | 🇲🇾 FKM, UTM | [From Manual to Smart: Revolusi Kerja dengan AI Tools]()|
