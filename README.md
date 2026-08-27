@@ -51,7 +51,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 
 ## 🌍 Workshops and Courses: Year 2026
-<a href="https://drshahizan.github.io/fk">
+<a href="https://drshahizan.github.io">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Aisemua/images/aisemua.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
 <a href="https://drshahizan.github.io/fk">
