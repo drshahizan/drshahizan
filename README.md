@@ -45,14 +45,17 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 # 🚀 Current event⚡
 
-<a href="https://drshahizan.github.io/fk">
-  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26FK/images/26fk.jpeg" alt="Dr Shahizan AI"  height="400">
+<a href="https://drshahizan.github.io/benut">
+  <img src="https://drshahizan.github.io/benut/assets/images/poster-kursus-ai-pentadbir.jpeg" alt="Dr Shahizan AI"  height="400">
 </a>
 
 
 ## 🌍 Workshops and Courses: Year 2026
-<a href="https://drshahizan.github.io">
+<a href="https://drshahizan.github.io/ai-semua/">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Aisemua/images/aisemua.jpeg" alt="Dr Shahizan AI"  height="200">
+</a>
+<a href="https://drshahizan.github.io/benut">
+  <img src="https://drshahizan.github.io/benut/assets/images/poster-kursus-ai-pentadbir.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
 <a href="https://drshahizan.github.io/fk">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26FK/images/26fk.jpeg" alt="Dr Shahizan AI"  height="200">
@@ -113,8 +116,8 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 | 03 Nov | 🇲🇾 Pej TNCAA, UTM | [Amanah Data dalam Kecerdasan Buatan Generatif: Daripada Prinsip kepada Amalan]()|
 | 24 Sept | 🇲🇾 UTM, HCM, UTS | [Winning Journal Writing Worskhop]()|
 | 21 Sept | 🇲🇾 CTLD, UTM | [Kursus Alat Digital dan Analisis Penyelidikan]()|
-| 12 Sept | 🇲🇾 UTM | [AI untuk semua]()|
-| 9 Sept | 🇲🇾 IIRG & PGBM Benut | [Kursus Kecerdasan Buatan untuk Pentadbir Sekolah]()|
+| 12 Sept | 🇲🇾 UTM | [AI untuk semua](https://drshahizan.github.io/ai-semua/)|
+| 9 Sept | 🇲🇾 IIRG & PGBM Benut | [Kursus Kecerdasan Buatan untuk Pentadbir Sekolah](https://drshahizan.github.io/benut)|
 | 7 Sept | 🇲🇾 FKM, UTM | [From Manual to Smart: Revolusi Kerja dengan AI Tools]()|
 | 26 Aug | 🇲🇾 FK, UTM | [Pemerkasaan Tugasan Harian Menggunakan Kecerdasan Buatan Generatif](https://drshahizan.github.io/fk)|
 | 24 Aug | 🇲🇾 BDC, UTM | [AI for Research](https://drshahizan.github.io/bdc)|
