@@ -45,8 +45,8 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 # 🚀 Current event⚡
 
-<a href="https://drshahizan.github.io/benut">
-  <img src="https://drshahizan.github.io/benut/assets/images/poster-kursus-ai-pentadbir.jpeg" alt="Dr Shahizan AI"  height="400">
+<a href="https://drshahizan.github.io/benut1">
+  <img src="https://drshahizan.github.io/benut1/assets/images/poster-kursus-ai-pentadbir.jpeg" alt="Dr Shahizan AI"  height="400">
 </a>
 
 
@@ -54,8 +54,8 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 <a href="https://drshahizan.github.io/ai-semua/">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Aisemua/images/aisemua.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
-<a href="https://drshahizan.github.io/benut">
-  <img src="https://drshahizan.github.io/benut/assets/images/poster-kursus-ai-pentadbir.jpeg" alt="Dr Shahizan AI"  height="200">
+<a href="https://drshahizan.github.io/benut1">
+  <img src="https://drshahizan.github.io/benut1/assets/images/poster-kursus-ai-pentadbir.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
 <a href="https://drshahizan.github.io/fk">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26FK/images/26fk.jpeg" alt="Dr Shahizan AI"  height="200">
