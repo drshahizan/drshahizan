@@ -117,7 +117,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 | 24 Sept | 🇲🇾 UTM, HCM, UTS | [Winning Journal Writing Worskhop]()|
 | 21 Sept | 🇲🇾 CTLD, UTM | [Kursus Alat Digital dan Analisis Penyelidikan]()|
 | 12 Sept | 🇲🇾 UTM | [AI untuk semua](https://drshahizan.github.io/ai-semua/)|
-| 9 Sept | 🇲🇾 IIRG & PGBM Benut | [Kursus Kecerdasan Buatan untuk Pentadbir Sekolah](https://drshahizan.github.io/benut)|
+| 9 Sept | 🇲🇾 IIRG & PGBM Benut | [Kursus Kecerdasan Buatan untuk Pentadbir Sekolah](https://drshahizan.github.io/benut1)|
 | 7 Sept | 🇲🇾 FKM, UTM | [From Manual to Smart: Revolusi Kerja dengan AI Tools]()|
 | 26 Aug | 🇲🇾 FK, UTM | [Pemerkasaan Tugasan Harian Menggunakan Kecerdasan Buatan Generatif](https://drshahizan.github.io/fk)|
 | 24 Aug | 🇲🇾 BDC, UTM | [AI for Research](https://drshahizan.github.io/bdc)|
