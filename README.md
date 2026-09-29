@@ -51,6 +51,9 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 
 ## 🌍 Workshops and Courses: Year 2026
+<a href="https://drshahizan.github.io/alat-digital/">
+  <img src="https://drshahizan.github.io/alat-digital/poster_alatan_ai.jpeg" alt="Dr Shahizan AI"  height="200">
+</a>
 <a href="https://drshahizan.github.io/ai-semua/">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Aisemua/images/aisemua.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
@@ -115,7 +118,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | 03 Nov | 🇲🇾 Pej TNCAA, UTM | [Amanah Data dalam Kecerdasan Buatan Generatif: Daripada Prinsip kepada Amalan]()|
 | 24 Sept | 🇲🇾 UTM, HCM, UTS | [Winning Journal Writing Worskhop]()|
-| 21 Sept | 🇲🇾 CTLD, UTM | [Kursus Alat Digital dan Analisis Penyelidikan]()|
+| 21 Sept | 🇲🇾 CTLD, UTM | [Kursus Alat Digital dan Analisis Penyelidikan](https://drshahizan.github.io/alat-digital/)|
 | 12 Sept | 🇲🇾 UTM | [AI untuk semua](https://drshahizan.github.io/ai-semua/)|
 | 9 Sept | 🇲🇾 IIRG & PGBM Benut | [Kursus Kecerdasan Buatan untuk Pentadbir Sekolah](https://drshahizan.github.io/benut1)|
 | 7 Sept | 🇲🇾 FKM, UTM | [From Manual to Smart: Revolusi Kerja dengan AI Tools]()|
