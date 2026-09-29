@@ -45,8 +45,8 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 # 🚀 Current event⚡
 
-<a href="https://drshahizan.github.io/benut1">
-  <img src="https://drshahizan.github.io/benut1/assets/images/poster-kursus-ai-pentadbir.jpeg" alt="Dr Shahizan AI"  height="400">
+<a href="https://drshahizan.github.io/alat-digital/">
+  <img src="https://drshahizan.github.io/alat-digital/poster_alatan_ai.jpeg" alt="Dr Shahizan AI"  height="400">
 </a>
 
 
