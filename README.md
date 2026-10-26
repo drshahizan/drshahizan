@@ -49,7 +49,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
   <img src="https://drshahizan.github.io/slr/images/hero/slr-workshop-poster.jpeg" alt="Dr Shahizan AI"  height="400">
 </a>
 <a href="https://drshahizan.github.io/scst1133/">
-  <img src="https://drshahizan.github.io/alat-digital/poster_alatan_ai.jpeg" alt="Dr Shahizan AI"  height="400">
+  <img src="https://github.com/drshahizan/scst1133/blob/main/images/SCST1133_poster.webp" alt="Dr Shahizan AI"  height="400">
 </a>
 
 
