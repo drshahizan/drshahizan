@@ -55,7 +55,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 ## 🌍 Workshops and Courses: Year 2026
 <a href="https://drshahizan.github.io/slr/">
-  <img src="https://drshahizan.github.io/slr/images/hero/slr-workshop-poster.jpeg" alt="Dr Shahizan AI"  height="400">
+  <img src="https://drshahizan.github.io/slr/images/hero/slr-workshop-poster.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
 <a href="https://drshahizan.github.io/alat-digital/">
   <img src="https://drshahizan.github.io/alat-digital/poster_alatan_ai.jpeg" alt="Dr Shahizan AI"  height="200">
