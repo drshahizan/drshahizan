@@ -122,7 +122,7 @@ Explore my projects below, and let's collaborate on something impactful!  😊
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| 03 Nov | 🇲🇾 Pej TNCAA, UTM | [Amanah Data dalam Kecerdasan Buatan Generatif: Daripada Prinsip kepada Amalan]()|
+| 02 Nov | 🇲🇾 Pej TNCAA, UTM | [Amanah Data dalam Kecerdasan Buatan Generatif: Daripada Prinsip kepada Amalan](https://drshahizan.github.io/amanah/)|
 | 24 Sept | 🇲🇾 UTM, HCM, UTS | [Winning Journal Writing Worskhop]()|
 | 21 Sept | 🇲🇾 CTLD, UTM | [Kursus Alat Digital dan Analisis Penyelidikan](https://drshahizan.github.io/alat-digital/)|
 | 12 Sept | 🇲🇾 UTM | [AI untuk semua](https://drshahizan.github.io/ai-semua/)|
